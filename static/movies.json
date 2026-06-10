@@ -2180,7 +2180,7 @@
       "犯罪",
       "剧情"
     ],
-    "status": "watched",
+    "status": "watching",
     "kind": "tv",
     "url": "https://www.themoviedb.org/tv/247718"
   },
@@ -2244,7 +2244,7 @@
       "动作冒险"
     ],
     "url": "https://www.themoviedb.org/tv/94997",
-    "status": "watched",
+    "status": "watching",
     "kind": "tv"
   },
   {
@@ -2260,7 +2260,7 @@
       "剧情"
     ],
     "url": "https://www.themoviedb.org/tv/84773",
-    "status": "watched",
+    "status": "watching",
     "kind": "tv"
   },
   {
@@ -2307,7 +2307,7 @@
       "喜剧"
     ],
     "url": "https://www.themoviedb.org/tv/119051",
-    "status": "watched",
+    "status": "watching",
     "kind": "tv"
   },
   {
@@ -2338,7 +2338,7 @@
       "Sci-Fi & Fantasy"
     ],
     "url": "https://www.themoviedb.org/tv/66732",
-    "status": "watched",
+    "status": "watching",
     "kind": "tv"
   },
   {
@@ -2384,7 +2384,7 @@
       "剧情"
     ],
     "url": "https://www.themoviedb.org/tv/79460",
-    "status": "watched",
+    "status": "watching",
     "kind": "tv"
   },
   {
@@ -2473,7 +2473,7 @@
       "剧情"
     ],
     "url": "https://www.themoviedb.org/tv/81356",
-    "status": "watched",
+    "status": "watching",
     "kind": "tv"
   },
   {
@@ -2518,7 +2518,7 @@
       "动作冒险"
     ],
     "url": "https://www.themoviedb.org/tv/240459",
-    "status": "watched",
+    "status": "watching",
     "kind": "tv"
   },
   {
@@ -2563,6 +2563,716 @@
       "惊悚"
     ],
     "url": "https://www.themoviedb.org/movie/23823",
+    "status": "watched",
+    "kind": "movie"
+  },
+  {
+    "id": 37854,
+    "title": "航海王",
+    "year": 1999,
+    "rating": 8.7,
+    "poster": "https://media.themoviedb.org/t/p/w500/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
+    "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+    "genres": [
+      "动作冒险",
+      "喜剧",
+      "动画"
+    ],
+    "url": "https://www.themoviedb.org/tv/37854",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 241709,
+    "title": "航海王重制版",
+    "year": 2000,
+    "rating": 0.0,
+    "poster": "https://media.themoviedb.org/t/p/w500/tV6Nf6iLyr8llbcZCa3l6UNPlQi.jpg",
+    "overview": "暂无简介",
+    "genres": [
+      "未分类"
+    ],
+    "url": "https://www.themoviedb.org/tv/241709",
+    "status": "unwatched",
+    "kind": "anime"
+  },
+  {
+    "id": 30984,
+    "title": "死神",
+    "year": 2004,
+    "rating": 8.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/eTnnHbvI59hUzowsuqpPOtJZFI9.jpg",
+    "overview": "故事的主角黑崎一护是个看似暴力、单薄，实质上善良、勇敢、爱护家庭的少年，并且拥有能看见灵的体质。家里有一个开诊所的老爸和两个性格正常的妹妹夏梨和游子，一护每天七点必须按时回家,否则老爸便会使用“身体语言教训”的家规。吵闹的父子，懂事的妹妹以及与其他普通人并无大异的普通生活，直到女死神朽木露琪亚被他一脚踢到墙角并满脸惊疑地望着他问“你能看见我？”时漫画的序幕才这样被正式地揭开。 从此黑崎一护身边所有的事物都产生了翻天覆地的变化。",
+    "genres": [
+      "动作冒险",
+      "动画",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/30984",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 308329,
+    "title": "死神 千年血战篇",
+    "year": 2022,
+    "rating": 9.7,
+    "poster": "https://media.themoviedb.org/t/p/w500/aU88IrxR6FGFYY9U3fGcQ7RQMrN.jpg",
+    "overview": "在一次邂逅中得到死神的力量而成为“代理死神”的黑崎一护，被卷入死在现世的魂魄所聚集的地方——尸魂界的动乱中，在激烈的战斗中和同伴一起也成长了很多。因为一护的生活，所生活的空座町发生了异变。新的死神和新的敌人的出现，以及呼救声。一护再次拿起斩魄刀，踏上战场。另一方面，在尸魂界观测到现世中的虚突然连续消失，被引导到这片土地的灵魂所生活的流魂街居民们发生了失踪，并且死神们驻守的灵屋・瀞灵廷被贼军袭击。贼军的真实身份是灭却师始祖・友哈巴赫所率领的“无形帝国”。“无形帝国”向死神们宣战。5天后，尸魂界被“无形帝国”歼灭，历经千年之久死神们所背负的因缘。那个宿命和隐藏的真相终于被揭开。一切都走向终结。黑崎一护，最后的战斗开始了——",
+    "genres": [
+      "未分类"
+    ],
+    "url": "https://www.themoviedb.org/tv/308329",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 46260,
+    "title": "火影忍者",
+    "year": 2002,
+    "rating": 8.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/uLDLWqD2NaCMF2XLlDjuksHNilh.jpg",
+    "overview": "十多年前一只拥有巨大威力的妖兽“九尾妖狐”袭击了木叶忍者村，当时的第四代火影拼尽全力，以自己的生命为代价将“九尾妖狐”封印在了刚出生的鸣人身上。木叶村终于恢复了平静，但村民们却把鸣人当成像“九尾妖狐”那样的怪物看待，所有人都疏远他。鸣人自小就孤苦无依，一晃十多年过去了，少年鸣人考入了木叶村的忍者学校，结识了好朋友佐助和小樱。佐助是宇智波家族的传人之一，当他还是小孩的时候他的哥哥——一个已经拥有高超忍术的忍者将他们家族的人都杀死了，然后投靠了一直想将木叶村毁灭的大蛇丸，佐助自小就发誓要超越哥哥，为家族报仇。鸣人他们在忍者学校得到了教官卡卡西的精心指点，在他的帮助下去迎接成长中的一次又一次挑战！",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/46260",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 31910,
+    "title": "火影忍者：疾风传",
+    "year": 2007,
+    "rating": 8.5,
+    "poster": "https://media.themoviedb.org/t/p/w500/7jGvTx2rvXbXAY6dOmLDMUnBqne.jpg",
+    "overview": "疾风传指的是佐助投奔大蛇丸后三年发生的故事，故疾风传也可以理解为《火影忍者》第二部。 不知不觉《火影忍者》已经一路走了七年，鸣人从万年吊车尾的倒霉蛋慢慢地成长为能独当一面的忍者。从莽撞单纯的英雄主义男主角一步又一步地向忍道的达人迈进。为了友情，为了爱，为了被认可，为了自己的忍道，鸣人头也不回的奋斗了整整7年，以疾风的速度成长着。撒花庆贺的同时好消息自然不能少！2007早春火影动画也回归漫画突入第二章，冗长乏味的TV动画，终于顺应民意走回“正途”。",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/31910",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 322512,
+    "title": "Re：从零开始的异世界生活 新编集版",
+    "year": 2020,
+    "rating": 10.0,
+    "poster": "https://media.themoviedb.org/t/p/w500/szFoBmkiWsx4aQKs3b0fafFkwSt.jpg",
+    "overview": "普通高中生菜月昴从便利店回家时，突然被强制召唤到异世界。刚抵达就遭遇地痞围殴、险些丧命，此时银发少女爱蜜莉雅与猫精灵帕克救下了他。昴为报恩，主动帮少女寻找被偷走的徽章，途中结识菲鲁特、罗姆爷。但在追查过程中，昴与爱蜜莉雅惨遭猎肠者艾尔莎刺杀死亡；随后触发专属能力死亡回归——死后时间回溯到刚被召唤到异世界的瞬间，开启无限轮回，誓要改变必死的命运。",
+    "genres": [
+      "未分类"
+    ],
+    "url": "https://www.themoviedb.org/tv/322512",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 94664,
+    "title": "无职转生：到了异世界就拿出真本事",
+    "year": 2021,
+    "rating": 8.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/wMSO4QgEyUhnf1XLIpz5w371xtb.jpg",
+    "overview": "“我要在这个异世界拿出真本事！”34岁童贞且无职的家里蹲男子，在父母的葬礼当天被赶出家门后，在路上被一辆卡车所撞死。意识清醒后，他发现自己居然作为一个刚出生的婴儿转生到了剑与魔法的异世界！像废物一样活过了前世的男子，发誓要作为少年·鲁迪乌斯在异世界以认真的态度好好活下去！等待着鲁迪乌斯的是，与娇小魔术师、有着精灵长耳又很男孩子气的美少女、凶暴的傲娇大小姐以及其他性格各异的人们之间的邂逅，当然也还有残酷的冒险与战斗。新的人生就要开始了！“人生重来型”幻想冒险谭，在此开幕！",
+    "genres": [
+      "动作冒险",
+      "动画",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/94664",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 61459,
+    "title": "寄生兽：生命的准则",
+    "year": 2014,
+    "rating": 8.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/zTf0lXVEsC8mr9k7lYrSZXueUE2.jpg",
+    "overview": "由于残忍的分尸杀人事件频发，世界各地人民陷入一片惶恐不安之中，然而元凶却是人类未曾意料到的“寄生兽”。这些寄生生物的幼虫侵入人类或动物身体后，以寄生脑部为目标，寄生完成后与脑部细胞同化，管理这个“死掉的身体”。它们能任意变形，能够迅速吸收掌握人类知识，而它们的食物便是寄生体相同的物种。",
+    "genres": [
+      "动画",
+      "剧情",
+      "Sci-Fi & Fantasy",
+      "动作冒险"
+    ],
+    "url": "https://www.themoviedb.org/tv/61459",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 61374,
+    "title": "东京食尸鬼",
+    "year": 2014,
+    "rating": 8.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/hVUr9mlheYLTBsXMohGUHhdgzht.jpg",
+    "overview": "在东京街头，一群成谜的吃人怪人“喰种”正悄悄在人类世界扩张他们的势力──平凡的大学生金木研因为遭到喰种猎食而性命垂危。医生为他进行了器官移植手术，然而器官提供者其实是喰种…在病床上醒来的金木很快就感觉到身体不对劲，原本记忆中美味的食物全都走味到难以下咽。一开始，即使好几天不吃东西他也不会饿，但不久，激烈的空腹感开始折磨他。当他意识到，能引起他食欲的对象只剩下街上错身而过的男男女女。在群众中潜伏着，狩猎着人类，这个吞食着死尸的怪人，人们称其为食尸鬼，在青年和怪人相遇之时，充满波折的命运的齿轮开始转动了！",
+    "genres": [
+      "动画",
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/61374",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 1429,
+    "title": "进击的巨人",
+    "year": 2013,
+    "rating": 8.7,
+    "poster": "https://media.themoviedb.org/t/p/w500/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
+    "overview": "曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
+    "genres": [
+      "动画",
+      "Sci-Fi & Fantasy",
+      "动作冒险"
+    ],
+    "url": "https://www.themoviedb.org/tv/1429",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 313024,
+    "title": "进击的巨人 最终季 完结篇（前篇）",
+    "year": 2023,
+    "rating": 8.0,
+    "poster": "https://media.themoviedb.org/t/p/w500/2ZJDbP90aeHvcPwjznHgzCGBnjy.jpg",
+    "overview": "《进击的巨人》系列的超长特别篇，承接最终季 Part.2 的剧情，艾连发动「地鸣」意图毁灭世界。无数的巨人们开始进击，所到之处皆被夷为平地。米卡莎、阿尔敏、约翰、柯尼、汉吉、莱纳、亚妮、皮可和身负重伤濒临死亡的里维…… 残存下来的战士们为了阻止艾连挺身而出，迎接最终的战役。",
+    "genres": [
+      "未分类"
+    ],
+    "url": "https://www.themoviedb.org/tv/313024",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 313028,
+    "title": "进击的巨人 最终季 完结篇 （后篇）",
+    "year": 2023,
+    "rating": 8.5,
+    "poster": "https://media.themoviedb.org/t/p/w500/5gaf9yFJHJTkg6KtLc7enqBY6UK.jpg",
+    "overview": "《进击的巨人》系列的最终完结特别篇。化身末日巨人的艾连带领着无数巨人前进史拉托亚要塞。这时，出现在深陷绝境的难民们面前的，是在千钧一发之际逃过地鸣的米卡莎、阿尔敏、约翰、柯尼、莱纳、皮可和里维一行人。 过去的伙伴们和两位同年玩伴与艾连之间的战斗，即将划下句点。",
+    "genres": [
+      "未分类"
+    ],
+    "url": "https://www.themoviedb.org/tv/313028",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 1333100,
+    "title": "进击的巨人剧场版：完结篇 · 最后的进击",
+    "year": 2024,
+    "rating": 8.7,
+    "poster": "https://media.themoviedb.org/t/p/w500/AcBKb49etcpp5DVNk1U6yA4wNuS.jpg",
+    "overview": "人类为了躲避巨人威胁而建筑高耸巨大城墙，躲在城墙中过着苟且偷生的日子。一天，超大型巨人来袭打破了历经百年的和平日常，纷乱中失去母亲的少年艾伦·耶格尔自此发誓要驱逐所有巨人，成为与巨人战斗的调查军团的一员。在几番赌命的险恶战斗中，艾伦得到化身为巨人的能力，一边为人类的胜利做出贡献，逐步慢慢接近世界的真相。  时光流逝，来到墙外世界的艾伦选择与调查军团的伙伴们分道扬镳，执行一个惊世骇俗的恐怖计划：率领无数巨人将这个世界上所有能称之为生命的生命尽数蹂躏的“地鸣”。以三笠和阿尔敏为首的幸存者们，为了阻止意图毁灭世界的艾伦，挺身挑战最后的战役。",
+    "genres": [
+      "动画",
+      "动作",
+      "冒险",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/movie/1333100",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 35610,
+    "title": "犬夜叉",
+    "year": 2000,
+    "rating": 8.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/rQHTNaynedeKurm0sNOsbAZg2oe.jpg",
+    "overview": "战国时代，大妖怪斗牙王与人类公主十六夜的儿子——半妖犬夜叉，因为自己半妖的身份受到人类与妖怪的排斥，为了成为真正的妖怪而想得到四魂之玉；而巫女桔梗为了保护和净化四魂之玉，运用灵力不断与前来抢夺四魂之玉的妖怪战斗。命运的红线牵引的两人虽然在开始互为敌对，但两人却也因四魂之玉结缘，桔梗发现了犬夜叉粗鲁外表下的善良，以及与自己同样的孤独；而犬夜叉也看到了桔梗在孤高的外表下其实也有颗孤单的、渴望被爱的心。  在不断的相互了解中，两人最终相爱了，并约定利用四魂之玉的力量，让犬夜叉成为人类，而守护使命结束的桔梗也可以回归到平凡生活，与爱人相守终生。但是，悲剧就此拉开序幕——在约定的日子里，发生了难以预料的变故。  桔梗当时救了一个全身烧伤的盗贼鬼蜘蛛，鬼蜘蛛逐渐对桔梗产生了邪念，想得到桔梗和四魂之玉，于是把自己出卖给众多妖怪，诞生出了邪恶的半妖——奈落。奈落暗中设计，让犬夜叉和桔梗误以为遭到对方的背叛。桔梗用最后一口气将犬夜叉封印在御神木上，令犬夜叉进入了永远长眠，值得注意的是，犬夜叉被封印时的表情十分安详。而桔梗选择与四魂之玉一同火化，追随“背叛”她的犬夜叉。   五百年后，桔梗的灵魂转世为现代少女日暮戈薇，一个活泼坚强，却又普通的初三学生。她在15岁生日那天，被家里食骨之井中的的妖怪百足妖妇强行带到了战国时代，穿越时空，见到了被封印在御神木上五十年的犬夜叉。妖怪前来抢夺戈薇体内隐藏的四魂之玉，慌忙之下，戈薇解开了犬夜叉的封印，唤醒沉睡的犬夜叉。随后在夺回被尸舞鸟抢走的四魂之玉时，戈薇无意间射碎四魂之玉，使其破碎成残片，散落于各地。为了搜集齐所有的四魂之玉碎片，犬夜叉和戈薇在弥勒、珊瑚、七宝还有云母等一众伙伴的陪同下开始了旅途。",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/35610",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 504253,
+    "title": "我想吃掉你的胰脏",
+    "year": 2018,
+    "rating": 8.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/dHbzxgODlw4kDfNNQi2lOZgCSjK.jpg",
+    "overview": "“没有名字的我，没有未来的她” 对他人毫无兴趣，总是独自一人读书的高中生“我”。这样的“我”有一天，偶然捡到一册写着《共病文库》的文库本。那是，天真烂漫的班上人气王·山内樱良私下记录的日记本。里面记载着她身患胰脏的疾病，已经时日无多……。隐藏自己的疾病度过日常的樱良，与知晓其秘密的“我”。— 两人的距离，还没有名字。",
+    "genres": [
+      "动画",
+      "剧情",
+      "爱情"
+    ],
+    "url": "https://www.themoviedb.org/movie/504253",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 24835,
+    "title": "团子大家族",
+    "year": 2007,
+    "rating": 8.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/jPBMYp4ddXkGJDSxxmaKBjzv2r3.jpg",
+    "overview": "在某个小镇，主角冈崎朋也因为家庭的因素成为不良少年，一直与春原阳平为伍，在光坂高校过着潦倒的生活，但希望终有一天能够离开所在的小镇。某一天，他在学校坡道前发现了一个止步不前的女孩，在朋也认识了这个名为“古河渚”的女孩后，他的生活开始有了重大的变化。  第一季为主角和女主角们之间所发生的事件，第二季After story为主角在中学毕业之后，与渚共同生活的日子，其中还穿插了“幻想世界”，《CLANNAD》就是由这三个要素所组成的故事。",
+    "genres": [
+      "动画",
+      "喜剧",
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/24835",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 61663,
+    "title": "四月是你的谎言",
+    "year": 2014,
+    "rating": 8.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/jNF9u45UNiwkIL2l5HEy0Ns8nTb.jpg",
+    "overview": "男主角有马公生自小接受母亲严格的钢琴训练，以按照乐谱精准弹奏的能力在各项音乐比赛中获胜，被人称作“神童”（动画作品内，亦被人嘲讽为“妈妈的傀儡”、“人体节拍器”、“演奏机”、“钢琴比赛机器”）。然而11岁时母亲病逝，加上自身对弹奏的迷惘，陷入听不见钢琴声音的心境障碍，选择放弃钢琴弹奏。国中三年级时，某一天在青梅竹马椿的介绍下，认识同年级的小提琴手——宫园薰，并于一场合奏的音乐比赛中被薰自由奔放的演奏风格所吸引，自此心境与日常生活开始转变。",
+    "genres": [
+      "动画",
+      "喜剧",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/61663",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 667520,
+    "title": "想哭的我戴上了猫的面具",
+    "year": 2020,
+    "rating": 7.9,
+    "poster": "https://media.themoviedb.org/t/p/w500/hw0mfJtOibpih59ULkfWl3T4Xv.jpg",
+    "overview": "爱知县常滑市，中学2年级学生笹木美代与日之出贤人是同班同学，但两人之间却有着捉摸不到的距离感。有一天笹木获得了能变成猫的不可思议的面具，变成猫的她与日之出的距离得以接近。",
+    "genres": [
+      "动画",
+      "剧情",
+      "爱情",
+      "奇幻"
+    ],
+    "url": "https://www.themoviedb.org/movie/667520",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 13916,
+    "title": "死亡笔记",
+    "year": 2006,
+    "rating": 8.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/pafbo1ZxG4z44kuoCc2QL5wRuMQ.jpg",
+    "overview": "\"名字被写在这个笔记本上的人会死\"——死神流克拥有这样的死亡笔记，却将它遗失在人间。天才高中生夜神月捡到这本笔记本，本以为是恶作剧的他，在笔记本上写下了电视中播放的罪犯的名字，确认了笔记本能力的真实性。厌倦腐朽世界的夜神月使用笔记本的力量，开始杀死犯罪者，以此希望建立一个没有犯罪的美好理想世界，而自己成为“新世界的神”。  　　连续罪犯死亡事件，吸引了全世界警察的目光，更吸引了世界第一名侦探L的注意，L能否将被崇拜者称为“基拉”的夜神月逮捕？  　　一本死神的笔记本，拉开了天才与天才之间卓越巅峰的头脑战争的序幕。本已对人间失去兴趣的流克，在旁观惊心动魄的斗智过程中感叹“人类，真有趣。”",
+    "genres": [
+      "动画",
+      "悬疑",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/13916",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 46671,
+    "title": "未来日记",
+    "year": 2011,
+    "rating": 7.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/rQScQD92q6CYAGL0DWQQNxjuVVh.jpg",
+    "overview": "国中二年级学生天野雪辉习惯远离所有人，以一个旁观者的角度把亲眼所见的事当作日记记录在自己的手机中。一天，时空之神Deus把未来日记植入他的手机，日记中记录的是他未来90天发生的事，包括考试内容、遇到的危险等。  这个日记代表着持有者的未来，一旦被破坏，持有者将会同日记一同消失。Deus选定了十二位未来日记的持有者、他们之间将会进行一场生死游戏，而最后生存的人将会成为Deus的继承者，掌握支配时空的神之座。起初、弱小的雪辉选择联手爱慕自己的我妻由乃；随着游戏的进行，雪辉渐渐发现由乃的奇怪思想及行为。  而故事也向着内向冷淡的雪辉的成长、盲目爱慕雪辉的我妻由乃的动向、以及十二位独具个性的未来日记所有者进行的斗争展开。",
+    "genres": [
+      "动作冒险",
+      "动画",
+      "剧情",
+      "悬疑"
+    ],
+    "url": "https://www.themoviedb.org/tv/46671",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 36581,
+    "title": "尸鬼",
+    "year": 2010,
+    "rating": 8.0,
+    "poster": "https://media.themoviedb.org/t/p/w500/zsWbTnNwNjqWvgZ9gqTcK9WLoWy.jpg",
+    "overview": "故事发生在一个与世隔绝的村庄——外场村。多年以来，村庄一直维持着最为古老的殡葬方式——土葬。这为一种名叫“尸鬼”的怪物的生成提供了得天独厚的良好环境。尸鬼，僵尸的一种，它们身强体壮但惧怕阳光，靠吸食人类血液为生，同时以将普通的人类变成尸鬼来扩充己方的实力，它们的目的只有一个，那就是彻底占领外场村。奇怪的事情在村子各处隐秘的发生着，谁也没有将它们联系到一起，当恐惧爆发的时候，一切都已经为时已晚。结城夏野（内山昂辉 配音）是第一个发现尸鬼存在的人，而当他被尸鬼攻击后，却变成尸鬼的亚种“人狼”，人狼除了身体素质强于常人外，与人类无异，因此，人狼成为了唯一能够和尸鬼抗衡的存在。  　　在这个小小的村落中，在恐惧与鲜血的包围下，尸鬼的领袖桐敷沙子（悠木碧 配音）和人狼的领袖结城夏野之间，淳朴的村民和嗜血的魔物之间，即将展开一场惨烈的战争。",
+    "genres": [
+      "动画",
+      "悬疑",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/36581",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 75208,
+    "title": "恶魔人：哭泣之子",
+    "year": 2018,
+    "rating": 7.8,
+    "poster": "https://media.themoviedb.org/t/p/w500/2pQ9xfgDa3L3QpoXfkNhISby2R4.jpg",
+    "overview": "随着恶魔觉醒，人类世界陷入混乱。性格温柔的男孩与恶魔合体，在神秘好友飞鸟了的指引下，卷入一场残酷、堕落的对抗邪恶之战。",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/75208",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 61223,
+    "title": "斩·赤红之瞳！",
+    "year": 2014,
+    "rating": 8.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/rMpvMbSlPbm5QYfFem9fx2Jnttq.jpg",
+    "overview": "村民主角塔兹米来到帝都希望通过加入军队来升官发财，却在路途中和队友走散，又被性感大姐雷欧奈骗光钱财，走投无路之际遇到好心贵族萝莉大小姐艾莉亚收留，之后便在豪宅过上开心热闹的喜剧生活......隔天晚上便遭到帝都最凶恶的杀手集团——NIGHT RAID的袭击，塔兹米在下决心保护艾莉亚的时候，却发现了帝都的真相......",
+    "genres": [
+      "动画",
+      "剧情",
+      "动作冒险"
+    ],
+    "url": "https://www.themoviedb.org/tv/61223",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 72305,
+    "title": "狂赌之渊",
+    "year": 2017,
+    "rating": 8.1,
+    "poster": "https://media.themoviedb.org/t/p/w500/puvGr9DVz8XSCNr39xs81tGyvs9.jpg",
+    "overview": "百花王学园评价学生的唯一标准是他们的赌博能力，而赌博狂人蛇喰梦子计划在这所私立学校赌个天翻地覆。",
+    "genres": [
+      "动画",
+      "悬疑",
+      "犯罪",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/72305",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 138183,
+    "title": "狂赌之渊：双",
+    "year": 2022,
+    "rating": 7.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/hc4lqS5sOHZCMoMau3xIdtgzafA.jpg",
+    "overview": "早乙女芽亚里决心跻身上流社会，于是倾其所有，投入豪赌 — 这正是她所在的精英高中最看重的东西。",
+    "genres": [
+      "动画",
+      "悬疑"
+    ],
+    "url": "https://www.themoviedb.org/tv/138183",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 361661,
+    "title": "未闻花名",
+    "year": 2015,
+    "rating": 7.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/7WnICfzyYOKcdkbuCJKZcwi8HED.jpg",
+    "overview": "郁郁葱葱的小树林中，六个天真无邪同时又各怀心事的男孩女孩快乐玩耍。直到某天，有着天使般可爱面容的“面码”本间芽衣子（谷花音 饰）意外身亡，在其他朋友的心田投射了永远无法磨灭的阴影。许多年后，好友们渐行渐远，而为当年事件深感自责的宿海仁太（村上虹郎 饰）则将自己深锁家中。不知为何，仁太突然看到了长大后的面码（滨边美波 饰）的身影，他将此事告诉了偶然见到的久川铁道（高畑裕太 饰），铁道无比兴奋，连忙将松雪集（志尊淳 饰）、安城鸣子（松井爱莉 饰）、鹤见知利子（饭丰万理江 饰）等其他朋友召集在一起，以找出面码尚未实现的心愿。但心中满布创痕的朋友们，能否重新携手上路呢？  本片根据同名动画改编。",
+    "genres": [
+      "冒险",
+      "剧情",
+      "奇幻",
+      "电视电影"
+    ],
+    "url": "https://www.themoviedb.org/movie/361661",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 476292,
+    "title": "朝花夕誓：于离别之朝束起约定之花",
+    "year": 2018,
+    "rating": 8.1,
+    "poster": "https://media.themoviedb.org/t/p/w500/51TzvBMQdRAGVHJtFBtgtgd72oi.jpg",
+    "overview": "在世界的尽头，住着一群被称为“离别一族”的古老民族：他们拥有着长寿之血和永生不老的面容。在一场外族入侵的战役中，离别一族惨遭灭族，15岁的玛奇亚虽然侥幸逃生，却彻底和朋友失去了联系。孤身一人的她在残骸中拾到了一个普通人家的遗孤，并决定收养它。然而随着时间的流逝，玛奇亚必须要学会如何做一个母亲，经历人间的生离死别，并在朝代的更迭中守护“离别一族”最后的信仰…",
+    "genres": [
+      "动画",
+      "剧情",
+      "奇幻"
+    ],
+    "url": "https://www.themoviedb.org/movie/476292",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 431819,
+    "title": "烟花",
+    "year": 2017,
+    "rating": 6.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/uPN6xI8TsKtEJR4iRFqMDju03JD.jpg",
+    "overview": "暑假，某个海边小镇。在烟花晚会之前，热热闹闹的聊着“升空的烟花从侧面看是圆的？还是平的？”这样的话题的同班同学。与此同时，典道暗恋着的奈砂，因为奈砂的母亲的再婚对象已确定所以要转学了。“我们私奔、吧”奈砂向典道发出了一起逃出小镇的邀请，却在那之前被母亲带走了。而典道只是眼睁睁地看着这些。“如果，那时候我…”没有救下奈砂的典道，因为心中的苛责而丢出了奈砂在海中捡到的不可思议的珠子。就这样，不知何时起，时间被倒回到了奈砂被带走之前的时候…。一次又一次被重复的一天，奈砂与典道的命运会？",
+    "genres": [
+      "动画",
+      "爱情",
+      "奇幻",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/movie/431819",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 378064,
+    "title": "声之形",
+    "year": 2016,
+    "rating": 8.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/xmd1MrC2JI3rkZP2sQ1C3ECTKIT.jpg",
+    "overview": "西宫硝子（早见沙织 配音）生来患有听觉障碍，要依靠助听器和外界交流，口语发音也因此格外的古怪。小学时，硝子转入了一所新的学校，特殊的生理缺陷让她成为了班上引人注目的独特存在，她因此收获了坚实的友情，却也遭到了以男生石田将也（入野自由 配音）为首的小团体的孤立和排挤。随着时 间的推移，无心或有意的恶作剧渐渐升级，最终演变成为了无法挽回的伤害，硝子永远的消失在了众人的眼前。排挤硝子的事情曝光后，将也成为了下一个被欺负的对象，孤独痛苦的他终于理解了硝子的隐忍和温柔，只是他再也没有机会跟硝子道歉了。一次偶然中，将也同硝子重逢了，命运的齿轮重新开始了转动。",
+    "genres": [
+      "动画",
+      "剧情",
+      "爱情"
+    ],
+    "url": "https://www.themoviedb.org/movie/378064",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 84231,
+    "title": "韦恩",
+    "year": 2019,
+    "rating": 8.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/z8E1ZKTDhz477wjkT9ttIRmiVOc.jpg",
+    "overview": "讲述一个勇敢、有时又有点血腥的故事：15岁的韦恩骑着一辆脏自行车和他的新爱慕对象Del一起上路，为取回他父亲去世之前被偷的1978年款庞蒂亚克火鸟汽车，两人一同对抗世界。Joshua J. Williams(《泥土之界》)饰演循环角色奥兰多。",
+    "genres": [
+      "剧情",
+      "动作冒险",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/84231",
+    "status": "watching",
+    "kind": "tv"
+  },
+  {
+    "id": 42589,
+    "title": "Another",
+    "year": 2012,
+    "rating": 8.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/h3YyESKtOy7Rrv7zymyF9kfpz7T.jpg",
+    "overview": "26年前夜见山北中学的三年三班里，曾经有一位名叫「Misaki」的学生。他不仅是位运动天才，还是个优等生。个性平易近人、广受众人喜爱的他却在某日突然意外身亡，极度悲伤的同班同学们无法接受这件事实，众人决定到毕业之前仍想像他还活着般度过每一天。因此他的座位就这样空着，一大早上课会有人来打招呼，偶而还会有人借机搭话——但这段美丽的插曲却给三年三班带来某种扭曲的现象。时间来到1998年春天，转学到三年三班的榊原恒一，莫名感到班上持续着不安的气氛。在这样的班级里，有位行事异于常人的孤高美少女·见崎鸣。她一只眼睛遮着眼罩，总是独自一人在画画。这种不可思议的存在感让恒一不禁想试着接近她，但却就此陷入更深的谜团之中。随着故事的进展，班上的气氛越来越紧张，也有越来越多的人不知是巧合还是「诅咒」而意外身亡……",
+    "genres": [
+      "动画",
+      "剧情",
+      "悬疑"
+    ],
+    "url": "https://www.themoviedb.org/tv/42589",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 42942,
+    "title": "天使的脉动",
+    "year": 2010,
+    "rating": 7.9,
+    "poster": "https://media.themoviedb.org/t/p/w500/wz1PuXrg5ERQvyXKex3cGDie2hj.jpg",
+    "overview": "音无结弦（神谷浩史 配音）死后来到了死后的世界。醒来后发现在一座学校里，一名叫仲村由里（樱井浩美 配音）的女孩让他加入“无法容忍死掉战线”组织，简称 SSS。他们的任务就是要和敌人 —— 神的代表学生会长天使立华奏（花泽香菜 配音）作战。由里是这条战线的领袖，只要反抗天使就能继续存在，消灭天使就能获得世界。还没恢复记忆的音无只好答应加入她们的组织，但是他发现天使刀枪不入，他们都是不会受伤和死亡的。所谓敌人和战斗都是针对天使立华奏一个人的。音无还没恢复记忆，他不清楚这样的行为是不是正当的。真相慢慢被揭穿，年轻的生命们早早夭折，到底是神的恶意玩笑还是另有安排。",
+    "genres": [
+      "动画",
+      "喜剧",
+      "剧情",
+      "Sci-Fi & Fantasy",
+      "动作冒险"
+    ],
+    "url": "https://www.themoviedb.org/tv/42942",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 80477,
+    "title": "杀戮的天使",
+    "year": 2018,
+    "rating": 7.9,
+    "poster": "https://media.themoviedb.org/t/p/w500/74OJEbRx1swuh5EuT7VNWxyWTZd.jpg",
+    "overview": "在一栋大楼最底层甦醒的13岁少女，瑞吉儿·加德纳(レイチェル・ガードナー)，她没有任何记忆，不知道自己为何在这里，而为了回到地面，她开始试着逃出去，但是突然在她面前出现了脸上缠满绷带、拿着有如死神般的镰刀的杀人鬼。“拜托你，杀了我。”“帮我一起从这里出去吧。那样的话，我就会杀了你。”两人之间的奇妙羁绊，随着那“荒诞的约定”而逐渐加深。这里究竟是什么地方？两人为何被囚禁于此？等待着两人的命运又是如何？为了从密闭大楼逃出的抱死觉悟之行揭开了序幕。两人最终是否能够坚守约定，并且安全地逃出这栋大楼呢？",
+    "genres": [
+      "动作冒险",
+      "动画"
+    ],
+    "url": "https://www.themoviedb.org/tv/80477",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 1055152,
+    "title": "约定的梦幻岛",
+    "year": 2000,
+    "rating": 4.0,
+    "poster": "https://media.themoviedb.org/t/p/w500/yQG9SUstg5cEEGh05G0BiGTfZeO.jpg",
+    "overview": "如同母亲般尊敬着的她，并非亲人。相依为命的他们，并非兄弟。恩典农场之家，是没有父母的孩子们居住的地方。即使没有血缘关系，这里也是和妈妈以及38位兄弟姐妹一同度过幸福生活的，无可替代的家。但，他们的日常在某一天，突然宣告结束。",
+    "genres": [
+      "未分类"
+    ],
+    "url": "https://www.themoviedb.org/movie/1055152",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 62450,
+    "title": "可塑性记忆",
+    "year": 2015,
+    "rating": 8.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/ixu4MpRInmmW9HX3HKr0AOUim7B.jpg",
+    "overview": "故事发生在科技飞速发展的未来世界，彼时，人工智能机器人早已经不是罕见之物，正慢慢地融入人类的生活之中。高考落榜之后，18岁的青年水柿司（内匠靖明 配音）在父母的帮助下来到了SAI社工作，SAI社的主要产品即是名为“GIFTIA”的人形智能机器人。水柿司被安排到了终端部门工作，来到办公室后水柿司才发现，这个部门的主要职责竟然是回收即将报废的机器人。在这里，水柿司结识了名为艾拉（雨宫天 配音）的少女，她其实正是一名机器人，艾拉外表冷漠不善言其，却有着意外可爱的一面。就这样，水柿司和艾拉成为了工作中的搭档，两人之间渐渐产生了真挚的友谊。",
+    "genres": [
+      "动画",
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/62450",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 132664,
+    "title": "平家物语",
+    "year": 2022,
+    "rating": 7.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/kwdPTu36cRcKmBFZRY0KneTnjq8.jpg",
+    "overview": "“祇园精舍钟声响，世间诸行总无常。沙罗双树花说法，盛极必衰是沧桑。”平安末期，眼看平家一族将在权力、武力、财力等各方面极尽荣华。拥有看见亡者之眼的男人・平重盛，遇见了拥有看见未来之眼的少女・琵琶。少女预言道：“你们不久便要灭亡”。由贵族社会转为武家社会——日本实现历史性变化的、动荡的15年拉开了序幕。",
+    "genres": [
+      "动画",
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/132664",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 224372,
+    "title": "七王国的骑士",
+    "year": 2026,
+    "rating": 8.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
+    "overview": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+    "genres": [
+      "剧情",
+      "Sci-Fi & Fantasy",
+      "动作冒险"
+    ],
+    "url": "https://www.themoviedb.org/tv/224372",
+    "status": "watching",
+    "kind": "tv"
+  },
+  {
+    "id": 1528021,
+    "title": "黑煞女2",
+    "year": 2026,
+    "rating": 3.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/du6XOg3cd6SlRBQ1fxZDKpgavW0.jpg",
+    "overview": "出生自带诅咒的潘娜（丘普朗·阿瑞昆 饰）顺利考取大学，原以为能埋葬过去、重启新生。怎知她和好友小敏（萍玛达·柴莎索恩 饰）竟在新生活动后，惨遭六名学长姐残酷霸凌。在导师制止后，对方反而变本加厉，私下求助降头师施以致命巫术，却意外唤醒潜藏在潘娜体内的「三眼神」邪力。猎人与猎物身份瞬间反转。觉醒后的潘娜，信手拈来皆是索命降术，以牙还牙展开血色清算。一场终极猎杀就此引爆，谁也别想活着离开这场血色祭典！",
+    "genres": [
+      "恐怖",
+      "惊悚"
+    ],
+    "url": "https://www.themoviedb.org/movie/1528021",
+    "status": "unwatched",
+    "kind": "movie"
+  },
+  {
+    "id": 32171,
+    "title": "感染",
+    "year": 2004,
+    "rating": 6.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/7zpuYpvazHn78bCNCRK0BOQmWE3.jpg",
+    "overview": "某破旧医院，在改造过程中由于经费紧张而濒临倒闭，院长随后也下落不明。这里的医疗环境极其恶劣，为了节约经费竟然将用过的针头重复使用。病患得不到良好的照顾，医护人员和病人都处于焦躁不安的状态。在这种慌乱的情况下，医疗事故不可避免地发生了。一次抢救过程中，小护士安积圆（星野真里 饰）忙中出错将氯化钾当成氯化钙注入病人体内，最终致使病人死亡。经过一番激烈争论，参加抢救的鱼住大夫（高嶋政伸 饰）、秋叶大夫（佐藤浩市 饰）和护士们达成共识，决定将这起医疗事故隐瞒下来。",
+    "genres": [
+      "恐怖",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/movie/32171",
+    "status": "watched",
+    "kind": "movie"
+  },
+  {
+    "id": 82507,
+    "title": "险恶",
+    "year": 2012,
+    "rating": 6.9,
+    "poster": "https://media.themoviedb.org/t/p/w500/6LNYg08ShR61OTHCPSYvgxQP97u.jpg",
+    "overview": "埃里森·奥斯沃特（伊桑·霍克 Ethan Hawke 饰）是一个十几年前小有名气的犯罪小说作家，为了寻找创作灵感，他不惜一次次搬入曾经发生过命案的凶宅。时至今日，为了重现往昔的辉煌，他再次带着妻子崔茜（Juliet Rylance 饰）以及一双儿女特里夫（Michael Hall D'Addario 饰）和艾丝莉（Clare Foley 饰）搬入一栋凶宅。在收拾阁楼时，他偶然发现一卷家庭录影带，里面记录着房子前主人一家快乐幸福的生活瞬间以及他们被吊死在树上的惨烈画面。此后的日子里，他一遍遍观看录影带，从中寻找罪犯的蛛丝马迹，并且在房屋内的每个角落追查线索。在这一过程中，各种诡异事件相继在家人身上发生。埃里森此时已难以抽身……",
+    "genres": [
+      "恐怖",
+      "惊悚",
+      "悬疑"
+    ],
+    "url": "https://www.themoviedb.org/movie/82507",
+    "status": "watched",
+    "kind": "movie"
+  },
+  {
+    "id": 9694,
+    "title": "鬼来电",
+    "year": 2003,
+    "rating": 6.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/hXZGKkNDBOpc1jEOCgo19EmrKkk.jpg",
+    "overview": "手机里传来陌生的铃声，呼叫人竟是自己的名字，另一端传来不知所谓的留言内容，但那毫无疑问的是自己的声音，这是怎么回事？  　　“鬼来电”悄悄在高校学生中蔓延开来，一旦接到鬼来电，必然在电话所预言的时间内悲惨死去。由美（柴咲コウ饰）的好友阳子、研二、夏美先后惨死，由美有心挽救好友们的生命，却爱莫能助。  　　山下（堤真一饰）的妹妹早先亦死于这通电话，他企图帮助由美一起企图揭开真相，可很快，由美也收到了鬼来电",
+    "genres": [
+      "恐怖",
+      "悬疑",
+      "奇幻"
+    ],
+    "url": "https://www.themoviedb.org/movie/9694",
+    "status": "watched",
+    "kind": "movie"
+  },
+  {
+    "id": 918035,
+    "title": "头七",
+    "year": 2022,
+    "rating": 5.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/uj5OfbweuwqjFcijGiUo1UoGdiY.jpg",
+    "overview": "与父亲决裂后离家多年的女主春华，收到了爷爷离世的消息，不得已带着女儿回老家参加爷爷的头七。多年没见的父亲依旧冷淡更甚是有些粗暴，对女主与女主女儿都没有好脸色看。而在入夜之后，家中又似乎隐藏着什么更恐怖的秘密，头七的那天，回来的竟然是…",
+    "genres": [
+      "恐怖"
+    ],
+    "url": "https://www.themoviedb.org/movie/918035",
+    "status": "watched",
+    "kind": "movie"
+  },
+  {
+    "id": 298250,
+    "title": "电锯惊魂8：竖锯",
+    "year": 2017,
+    "rating": 6.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/ghy6J7o5FbmrO95Ra4MARPAv2n4.jpg",
+    "overview": "各地再次出现各种杀人案，追查结果都指向了已经去世的竖锯老怪约翰·克莱默。究竟是本尊回归，还是有党徒在模仿他的手法作案？警方一筹莫展。",
+    "genres": [
+      "恐怖",
+      "悬疑"
+    ],
+    "url": "https://www.themoviedb.org/movie/298250",
+    "status": "watched",
+    "kind": "movie"
+  },
+  {
+    "id": 9286,
+    "title": "死神来了3",
+    "year": 2006,
+    "rating": 6.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/8JPWcAGejr68WgXJzRVJKGKYfeC.jpg",
+    "overview": "高中生温迪、茱莉，这对好姊妹和她们的男朋友等人游玩，主角看见云霄飞车失事的惨难，在幻象中，她和朋友们全都死于这场灾难。清醒后的她，马上阻止大家搭乘云霄飞车，果真，云霄飞车惨难真的发生了！温迪的一些朋友惨死于这场灾难，但她也救了一些朋友，包括好姊妹茱莉、凯文、艾伦、伊安等人。然而在日后，温迪的这些朋友开始一个接一个死于离奇意外，她意识到了死神已经开始找她们讨命了，温迪和朋友们决定开始计划欺骗死神，再次逃过这一劫。",
+    "genres": [
+      "恐怖",
+      "悬疑"
+    ],
+    "url": "https://www.themoviedb.org/movie/9286",
     "status": "watched",
     "kind": "movie"
   }
