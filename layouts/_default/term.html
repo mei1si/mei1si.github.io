@@ -1,0 +1,69 @@
+{{ define "main" }}
+<main>
+  <article>
+    <div class="post-container">
+      <div class="post-content">
+        <div class="title"><h1 class="title">{{ if eq .Data.Singular "tag" }}Tags{{ else }}归档{{ end }} - {{ .Title }}</h1></div>
+        {{ if eq .Data.Singular "tag" }}
+        {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+        <div class="category-item">
+          <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">
+            {{ $name }} ({{ $taxonomy.Count }})
+          </a>
+        </div>
+        {{ end }}
+        {{ else }}
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+        <div class="category-item">
+          <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">
+            {{ $name }} ({{ $taxonomy.Count }})
+          </a>
+        </div>
+        {{ end }}
+        {{ end }}
+        {{- $paginator := .Paginate .Pages 20 -}}
+        {{- $yearlyPages := $paginator.Pages.GroupByDate "2006" -}}
+        {{- $yearlyTotalPages := .Pages.GroupByDate "2006" -}}
+        {{- $totalCountMap := dict -}}
+        {{- range $totalyearGroup := $yearlyTotalPages -}}
+          {{- $totalCountMap = merge $totalCountMap (dict $totalyearGroup.Key (len $totalyearGroup.Pages)) -}}
+        {{- end -}}
+        {{- range $yearGroup := $yearlyPages -}}
+          {{- $year := $yearGroup.Key -}}
+          {{- $count := len $yearGroup.Pages -}}
+          {{- $totalcount := index $totalCountMap $year -}}
+          {{if eq $count $totalcount}}
+          <h2 class="archive-year-header" id="{{ $year }}"> {{ $year }}
+            <sup class="archive-count">{{ $count }}</sup>
+          </h2>
+          {{ else }}
+          <h2 class="archive-year-header" id="{{ $year }}"> {{ $year }}
+            <sup class="archive-count">{{ $totalcount }}({{ $count }})</sup>
+          </h2>
+          {{ end }}
+          <ul class="article-list">
+          {{- range $yearGroup.Pages -}}
+            {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
+            <li>
+              <span class="post-title"><a href="{{ .RelPermalink }}">{{.Title}}</a></span> <span class="post-date">{{ dateFormat "2006-01-02" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
+            </li>
+            {{- end -}}
+          {{- end -}}
+          </ul>
+        {{- end -}}
+        <div class="pagination">
+          <ul class="pagination">
+            <span class="page-item page-prev">
+            {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}" class="page-link" aria-label="Previous"><span aria-hidden="true">← Prev</span></a>{{ else }}*First{{ end }}
+            </span>
+            <span class="page-item page-number">{{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+            <span class="page-item page-next">
+            {{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}" class="page-link" aria-label="Next"><span aria-hidden="true">Next →</span></a>{{ else }}Last*{{ end }}
+            </span>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </article>
+</main>
+{{ end }}

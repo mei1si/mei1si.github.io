@@ -1,0 +1,75 @@
+{{ define "main" }}
+<main>
+	{{ if and (eq .Section "posts") (.TableOfContents) }}
+	<nav class="toc" id="TableOfContents">
+		{{ .TableOfContents }}
+	</nav>
+	{{ end }}
+	<article>
+		<div class="title">
+			<h1 class="title">{{ .Title }}</h1>
+			{{ if eq .Section "posts" }}
+			<div class="meta">
+				{{- dateFormat "2006年1月2日" .Date -}}
+				{{- if .Draft }} <span class="draft-label">DRAFT</span>{{ end }}
+				 | 共{{ .WordCount }}字
+				{{- with .Params.tags }} | {{ range $i, $tag := . }}{{ if $i }} {{ end }}<a href="{{ "/tags/" | relLangURL }}{{ $tag | urlize }}">{{ $tag }}</a>{{ end }}{{ end }}
+			</div>
+			{{ end }}
+		</div>
+		{{ if isset .Params "tldr" }}
+		<div class="tldr">
+			<strong>tl;dr:</strong>
+			{{ .Params.tldr }}
+		</div>{{ end }}
+
+		<section class="body">
+			{{ .Content }}
+		</section>
+
+		{{ if eq .Section "posts" }}
+		{{- $posts := where .Site.RegularPages "Section" "posts" -}}
+		{{- $currentPermalink := .Permalink -}}
+		{{- $prevPost := false -}}
+		{{- $nextPost := false -}}
+		{{- range $i, $p := $posts -}}
+		  {{- if eq $p.Permalink $currentPermalink -}}
+		    {{- if gt $i 0 -}}{{- $prevPost = index $posts (sub $i 1) -}}{{- end -}}
+		    {{- if lt $i (sub (len $posts) 1) -}}{{- $nextPost = index $posts (add $i 1) -}}{{- end -}}
+		  {{- end -}}
+		{{- end -}}
+		<div class="postnav">
+			<span class="prev_post">
+				{{ if $prevPost }}<a href="{{ $prevPost.RelPermalink }}">{{ $prevPost.Title }}</a>{{ else }}已是最新文章{{ end }}
+			</span>
+			<span class="next_post">
+				{{ if $nextPost }}<a href="{{ $nextPost.RelPermalink }}">{{ $nextPost.Title }}</a>{{ else }}已是最后文章{{ end }}
+			</span>
+		</div>
+		{{ end }}
+	</article>
+</main>
+{{ if and (eq .Section "posts") (.TableOfContents) }}
+<script>
+(function(){
+  var tocLinks = document.querySelectorAll('#TableOfContents a');
+  if (!tocLinks.length) return;
+  var headings = Array.from(document.querySelectorAll('.body h2, .body h3'));
+  function activate() {
+    var scrollY = window.scrollY + 100;
+    var active = null;
+    headings.forEach(function(h) {
+      if (h.offsetTop <= scrollY) active = h;
+    });
+    tocLinks.forEach(function(a) { a.classList.remove('active'); });
+    if (active && active.id) {
+      var link = document.querySelector('#TableOfContents a[href="#' + active.id + '"]');
+      if (link) link.classList.add('active');
+    }
+  }
+  window.addEventListener('scroll', activate, {passive: true});
+  activate();
+})();
+</script>
+{{ end }}
+{{ end }}
