@@ -978,8 +978,7 @@ function filterMovies() {
     const genreSel = [...state.selectedGenres];
     const genreHit = genreSel.length === 0
       ? null
-      : (isAnd ? genreSel.every(g => m.genres.includes(g))
-               : genreSel.some(g => m.genres.includes(g)));
+      : genreSel.some(g => m.genres.includes(g));
 
     const yearHit = state.selectedYears.size === 0
       ? null
