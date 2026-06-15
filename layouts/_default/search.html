@@ -1,0 +1,43 @@
+{{ define "main" }}
+<main>
+  <article>
+    <h1>🔍 搜索</h1>
+    <div class="search-box">
+      <input id="search-input" type="text" placeholder="输入关键词搜索文章..." autofocus />
+    </div>
+    <div id="search-results"></div>
+  </article>
+</main>
+
+<script>
+(function() {
+  var input = document.getElementById('search-input');
+  var container = document.getElementById('search-results');
+  if (!input || !container) return;
+
+  var posts = [];
+  fetch('/index.xml')
+    .then(function(r) { return r.text(); })
+    .then(function(xml) {
+      var parser = new DOMParser();
+      var doc = parser.parseFromString(xml, 'text/xml');
+      doc.querySelectorAll('item').forEach(function(item) {
+        var t = item.querySelector('title');
+        var l = item.querySelector('link');
+        if (t && l) posts.push({ title: t.textContent, url: l.textContent });
+      });
+
+      input.addEventListener('input', function() {
+        var q = this.value.toLowerCase().trim();
+        if (!q) { container.innerHTML = ''; return; }
+        var found = posts.filter(function(p) {
+          return p.title.toLowerCase().indexOf(q) !== -1;
+        });
+        container.innerHTML = found.length
+          ? found.map(function(p) { return '<a class="search-item" href="'+p.url+'">'+p.title+'</a>'; }).join('')
+          : '<p style="color:#9f927d">没有找到相关文章 🍃</p>';
+      });
+    });
+})();
+</script>
+{{ end }}

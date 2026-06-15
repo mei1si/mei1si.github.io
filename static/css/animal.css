@@ -1,0 +1,693 @@
+/* ================================================================
+   Animal Island — 动物森友会风格覆盖
+   原则：只覆盖大视觉元素（背景/字体/配色/导航/代码块/页脚）
+   不动：TOC、文章排版、标签云、列表样式
+   ================================================================ */
+
+/* ─── 1. 干掉 archie 随机 API 壁纸 ─── */
+body::before { display: none !important; }
+
+/* ─── 2. 背景 + 全局字体 ─── */
+html {
+  background: url('/images/animal-bg.jpg') center/cover fixed !important;
+}
+body {
+  background: transparent !important;
+  font-family: 'Nunito', 'Noto Sans SC', -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif !important;
+  font-weight: 500;
+  color: #5c4030;
+  letter-spacing: 0.01em;
+}
+
+/* ─── 3. 选择文字 ─── */
+::selection { background: #19c8b9; color: #fff; }
+
+/* ─── 4. 链接 — 粉色下划线区分 ─── */
+a {
+  color: #0e9c91;
+  text-decoration: underline;
+  text-decoration-color: rgba(248, 166, 178, 0.5);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: all 0.2s ease;
+}
+a:hover { color: #11a89b; text-decoration-color: #f8a6b2; }
+
+/* ─── 5. 主卡片 — 毛玻璃 + 大圆角 + 暖色阴影 ─── */
+main {
+  background: rgba(248, 245, 236, 0.92) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 18px !important;
+  border: 1px solid rgba(160, 140, 115, 0.15) !important;
+  box-shadow: 0 3px 10px rgba(61, 52, 40, 0.1) !important;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ─── 6. 导航栏 ─── */
+header {
+  max-width: 700px !important;
+  background: rgba(248, 245, 236, 0.92) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 18px !important;
+  border: 1px solid rgba(160, 140, 115, 0.15);
+  box-shadow: 0 2px 8px rgba(61, 52, 40, 0.08);
+  padding: 0 24px !important;
+}
+header .main { font-weight: 700; font-size: 1.4rem; }
+header .main a { color: #794f27; font-weight: 700; text-decoration: none !important; }
+header .main a:hover { color: #0e9c91; text-decoration: none !important; }
+nav { gap: 16px; align-items: center; }
+nav a {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #725d42 !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+  letter-spacing: 0.02em;
+}
+nav a:hover {
+  color: #0e9c91 !important;
+  text-decoration: none;
+}
+
+/* 导航按钮：搜索 + 暗色切换 */
+.nav-search {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #725d42 !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+  letter-spacing: 0.02em;
+}
+.nav-search:hover { color: #0e9c91 !important; }
+.nav-dark-toggle {
+  background: none;
+  border: none;
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #725d42 !important;
+  cursor: pointer;
+  padding: 0;
+  letter-spacing: 0.02em;
+  transition: color 0.2s ease;
+}
+.nav-dark-toggle:hover { color: #f5c31c !important; }
+
+/* ─── 搜索页 — 动森风格 + 居中 ─── */
+.search-box {
+  margin: 1.5em 0;
+}
+.search-box input {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 14px 22px;
+  font-size: 1.05rem;
+  font-family: inherit;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  border: 2.5px solid #c4b89e;
+  border-radius: 50px;
+  background: rgba(248, 245, 236, 0.7);
+  color: #5c4030;
+  outline: none;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 2px 6px rgba(61, 52, 40, 0.04);
+}
+.search-box input::placeholder {
+  color: #b4a48a;
+  font-weight: 400;
+}
+.search-box input:focus {
+  border-color: #19c8b9;
+  box-shadow: 0 0 0 4px rgba(25, 200, 185, 0.1), 0 2px 8px rgba(61, 52, 40, 0.06);
+}
+.search-item {
+  display: block;
+  padding: 8px 14px;
+  margin: 4px 0;
+  border-radius: 10px;
+  background: rgba(248, 245, 236, 0.5);
+  color: #5c4030 !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+}
+.search-item:hover {
+  background: rgba(25, 200, 185, 0.1);
+  color: #19c8b9 !important;
+}
+
+/* ─── 7. 标题 ─── */
+h1, h2, h3, h4, h5, h6 {
+  color: #5c4030 !important;
+  font-weight: 700 !important;
+}
+/* 首页文章标题链接 — 用正文颜色，无下划线 */
+main h1 a, .list-item h1 a {
+  color: #5c4030 !important;
+  text-decoration: none !important;
+}
+main h1 a:hover, .list-item h1 a:hover {
+  color: #19c8b9 !important;
+  text-decoration: none !important;
+}
+h1 { font-size: 1.3rem; }
+h2 { font-size: 1.15rem; }
+
+/* -- 用树叶符号替代原 # / ➭ 前缀 -- */
+h1::before { content: '# ' !important; color: #19c8b9; }
+h2::before { content: '## ' !important; color: #6fba2c; }
+
+/* h3 — 无修饰，干净 */
+h3 { background: none !important; }
+h3::before { content: '### ' !important; color: #e59266; font-weight: 400; }
+
+/* h4 */
+h4::before { content: '#### ' !important; color: #889df0; font-weight: 400; }
+
+/* ─── 8. 代码块 — 深底色温暖高亮 ─── */
+code {
+  background-color: #f0e8d8 !important;
+  color: #725d42 !important;
+  padding: 0.05rem 0.35rem !important;
+  border-radius: 6px !important;
+  box-shadow: none !important;
+  font-family: 'Fira Code', 'Cascadia Code', Consolas, monospace !important;
+  font-size: 0.92em;
+}
+
+pre, .highlight {
+  background: #f0e8d8 !important;
+  border-radius: 12px !important;
+  border: 1px solid rgba(160, 140, 115, 0.25) !important;
+  box-shadow: 0 1px 4px rgba(61, 52, 40, 0.06) !important;
+  max-height: none !important;
+  overflow-x: auto;
+}
+pre code { color: #5c4030 !important; }
+.chroma { color: #5c4030; background: #f0e8d8; }
+.chroma * { color: inherit; }
+
+/* 语言标签 — 右上角，hover消失 */
+.highlight {
+  position: relative;
+}
+.highlight pre code[class*="language-"]::before {
+  background: #19c8b9 !important;
+  border-radius: 0 0 0 10px !important;
+  color: #fff;
+  font-size: 0.7em;
+  font-weight: 600 !important;
+  font-family: 'Nunito', sans-serif !important;
+  letter-spacing: 0.04em;
+  padding: 3px 12px !important;
+  position: absolute;
+  right: 0;
+  top: 0;
+  text-align: center;
+  text-transform: uppercase;
+  transition: opacity 0.2s ease;
+  z-index: 2;
+}
+.highlight:hover pre code[class*="language-"]::before {
+  opacity: 0;
+}
+
+/* 行号 */
+.highlight .ln {
+  color: #b4a48a;
+  user-select: none;
+  padding-right: 12px;
+  text-align: right;
+  min-width: 2em;
+  display: inline-block;
+  border-right: 1px solid rgba(160, 140, 115, 0.15);
+  margin-right: 10px;
+}
+
+/* ─── 9. 引用块 ─── */
+blockquote {
+  border-left-color: #19c8b9 !important;
+  color: #725d42 !important;
+}
+
+/* ─── 10. hr 分割线 — 虚线青色 ─── */
+hr {
+  border: none !important;
+  border-top: 2px dashed #19c8b9 !important;
+  margin: 1.5em 0;
+}
+
+/* ─── 11. 任务列表 — 动森风格 ─── */
+input[type="checkbox"] {
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  width: 18px !important;
+  height: 18px !important;
+  border: 2px solid #c4b89e !important;
+  border-radius: 50% !important;
+  background: rgba(248, 245, 236, 0.8) !important;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.2s ease;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+input[type="checkbox"]:checked {
+  background: #19c8b9 !important;
+  border-color: #11a89b !important;
+}
+input[type="checkbox"]:checked::after {
+  content: "✓" !important;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+/* ─── 11. 列表项记号 ─── */
+ul > li::before { color: #6fba2c !important; }
+
+/* ─── 12. 标签云圆角 ─── */
+.tag-cloud {
+  justify-content: flex-start !important;
+  gap: 6px !important;
+}
+.tag-cloud > a {
+  background: rgba(248, 245, 236, 0.7) !important;
+  border-radius: 12px !important;
+  border: 1px solid rgba(160, 140, 115, 0.15);
+  color: #5c4030 !important;
+  transition: all 0.2s ease;
+}
+.tag-cloud > a:hover {
+  background: #19c8b9 !important;
+  color: #fff !important;
+}
+
+/* ─── 12.5. Categories / Tags 列表 — 动森药丸标签 ─── */
+.category-item {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 4px;
+  padding: 0.4em 1em !important;
+  border-radius: 50px !important;
+  margin: 0.25rem !important;
+  font-size: 0.9rem !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.02em;
+  border: 1.5px solid rgba(160, 140, 115, 0.15) !important;
+  box-shadow: 0 2px 4px rgba(61, 52, 40, 0.05);
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+}
+.category-item:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(61, 52, 40, 0.1);
+}
+.category-item a {
+  color: #5c4030 !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: inherit !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+}
+.category-item a:hover { color: inherit !important; background: transparent !important; }
+
+/* 每项不同底色 — NookPhone 调色板轮转 */
+.category-item:nth-child(8n+1) { background: #f8a6b2 !important; }  /* app-pink */
+.category-item:nth-child(8n+2) { background: #889df0 !important; color: #fff; }  /* app-blue */
+.category-item:nth-child(8n+3) { background: #f7cd67 !important; }  /* app-yellow */
+.category-item:nth-child(8n+4) { background: #82d5bb !important; }  /* app-teal */
+.category-item:nth-child(8n+5) { background: #8ac68a !important; }  /* app-green */
+.category-item:nth-child(8n+6) { background: #e59266 !important; }  /* app-orange */
+.category-item:nth-child(8n+7) { background: #b77dee !important; }  /* purple */
+.category-item:nth-child(8n+8) { background: #d1da49 !important; }  /* lime-green */
+
+/* 浅色底用深字，深色底用白字 */
+.category-item:nth-child(8n+2) a,
+.category-item:nth-child(8n+7) a,
+.category-item:nth-child(8n+4) a { color: #fff !important; }
+.category-item:nth-child(8n+2):hover,
+.category-item:nth-child(8n+7):hover { background: #7a87e0 !important; }
+.category-item:nth-child(8n+4):hover { background: #6ec5a8 !important; }
+
+/* ─── 14. meta / 分类标签 — 无下划线 ─── */
+.meta { color: #9f927d !important; }
+time { color: #9f927d !important; }
+.meta a, .category-link {
+  text-decoration: none !important;
+}
+.meta a:hover, .category-link:hover {
+  text-decoration: none !important;
+}
+section.list-item {
+  border-bottom-color: rgba(160, 140, 115, 0.2) !important;
+}
+
+/* ─── 15. 页脚 — SVG 波浪装饰 ─── */
+footer { padding-bottom: 0 !important; }
+footer .foot-info {
+  color: #9f927d;
+  font-size: 0.85rem;
+}
+.ai-wave {
+  width: 100%;
+  margin-top: 12px;
+  opacity: 0.88;
+}
+.ai-wave img {
+  width: 100%;
+  display: block;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+/* ─── 16. scrollbar ─── */
+::-webkit-scrollbar-thumb { background-color: #c4b89e; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #a89878; }
+
+/* ─── 17. polaroid 胶带颜色适配 ─── */
+.polaroid {
+  box-shadow: 0 3px 10px rgba(61, 52, 40, 0.1) !important;
+}
+.polaroid::before,
+.polaroid::after {
+  opacity: 0.7 !important;
+}
+
+/* ─── 17.5. TOC 目录 — 二级/三级标题 + 动森风格 ─── */
+.toc {
+  width: max-content !important;
+  min-width: 140px;
+  word-break: normal !important;
+  overflow-wrap: normal !important;
+  background: rgba(248, 245, 236, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 14px;
+  border: 1px solid rgba(160, 140, 115, 0.15);
+  box-shadow: 0 2px 8px rgba(61, 52, 40, 0.06);
+  padding: 14px 18px !important;
+}
+.toc nav {
+  display: block !important;
+}
+.toc ul { padding: 0 !important; margin: 0 !important; list-style: none !important; }
+
+/* 二级标题 (h2) */
+.toc > ul > li,
+.toc ul > li {
+  padding: 0.15em 0 0.15em 1.3em !important;
+  position: relative;
+}
+.toc > ul > li::before,
+.toc ul > li::before {
+  content: "✦" !important;
+  font-size: 0.7em;
+  color: #19c8b9;
+  position: absolute;
+  left: 0.1em !important;
+  top: 0.3em;
+}
+.toc > ul > li > a,
+.toc ul > li > a {
+  color: #725d42 !important;
+  font-weight: 600;
+  font-size: 0.88em;
+  letter-spacing: 0.01em;
+  transition: color 0.2s ease;
+}
+
+/* 三级标题 (h3) — 缩进更小 + ✦ */
+.toc ul ul { padding-left: 0.4em !important; margin-top: 2px !important; }
+.toc ul ul li {
+  padding: 0.1em 0 0.1em 1.1em !important;
+}
+.toc ul ul li::before {
+  content: "✦" !important;
+  font-size: 0.65em;
+  color: #9f927d;
+  left: 0.1em !important;
+  top: 0.3em;
+}
+.toc ul ul a {
+  font-weight: 500 !important;
+  font-size: 0.8em !important;
+  color: #9f927d !important;
+}
+
+.toc a:hover {
+  color: #19c8b9 !important;
+  text-decoration: none;
+}
+#TableOfContents a.active {
+  color: #19c8b9 !important;
+  font-weight: 700 !important;
+  background-image: none !important;
+}
+
+/* ─── 19. 表格 — 动森风格 ─── */
+table {
+  width: 100%;
+  border-collapse: separate !important;
+  border-spacing: 0;
+  border-radius: 14px !important;
+  overflow: hidden;
+  border: 1px solid rgba(160, 140, 115, 0.2) !important;
+  box-shadow: 0 2px 8px rgba(61, 52, 40, 0.06);
+  font-size: 0.9rem;
+}
+
+thead tr:first-child th:first-child { border-radius: 14px 0 0 0; }
+thead tr:first-child th:last-child  { border-radius: 0 14px 0 0; }
+tbody tr:last-child td:first-child { border-radius: 0 0 0 14px; }
+tbody tr:last-child td:last-child  { border-radius: 0 0 14px 0; }
+
+th {
+  background: #82d5bb !important;
+  color: #fff !important;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 10px 16px !important;
+  border-bottom: 2px solid rgba(160, 140, 115, 0.15) !important;
+}
+
+td {
+  padding: 8px 16px !important;
+  border-bottom: 1px solid rgba(160, 140, 115, 0.1) !important;
+  color: #5c4030;
+}
+
+tr:nth-child(even) td { background: rgba(248, 245, 236, 0.5) !important; }
+tr:nth-child(odd)  td { background: transparent !important; }
+tr:last-child td { border-bottom: none !important; }
+tr:hover td { background: rgba(25, 200, 185, 0.07) !important; }
+
+/* ─── 18. 暗色模式 — 黑底 + 低刺眼 ─── */
+html.dark {
+  background: #111 url('/images/animal-bg.jpg') center/cover fixed !important;
+  background-blend-mode: overlay;
+}
+html.dark body {
+  color: #c8c8c8 !important;
+  background: transparent !important;
+}
+
+html.dark main {
+  background: rgba(32, 32, 34, 0.95) !important;
+  border-color: rgba(255, 255, 255, 0.06) !important;
+  box-shadow: 0 3px 16px rgba(0, 0, 0, 0.5) !important;
+}
+
+html.dark header {
+  background: rgba(32, 32, 34, 0.95) !important;
+  border-color: rgba(255, 255, 255, 0.06);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+}
+
+/* 暗色模式 — 分类标签保持可见 */
+html.dark .category-item {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+  border-color: rgba(255, 255, 255, 0.1) !important;
+}
+html.dark .category-item a {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+/* 深色底 item 保持白字 */
+html.dark .category-item:nth-child(8n+2),
+html.dark .category-item:nth-child(8n+4),
+html.dark .category-item:nth-child(8n+7) { filter: brightness(1.05); }
+html.dark .category-item:nth-child(8n+2) a,
+html.dark .category-item:nth-child(8n+4) a,
+html.dark .category-item:nth-child(8n+7) a { color: #fff !important; }
+
+/* 暗色 — .tag-cloud a 不作用于 category-item 内的 a */
+html.dark .tag-cloud > a {
+  background: rgba(55, 55, 60, 0.6) !important;
+  color: #ccc !important;
+  border-color: rgba(255, 255, 255, 0.08);
+}
+html.dark .tag-cloud > a:hover { background: #19c8b9 !important; color: #fff !important; }
+html.dark header .main a { color: #e0e0e0; }
+html.dark nav a { color: #aaa !important; }
+html.dark nav a:hover { color: #19c8b9 !important; }
+
+html.dark h1, html.dark h2, html.dark h3, html.dark h4, html.dark h5, html.dark h6 {
+  color: #e0e0e0 !important;
+  background: none !important;
+}
+html.dark a { color: #3dd4c6; }
+html.dark a:hover { color: #5ee4d8; }
+
+html.dark code {
+  background-color: #2a2a2e !important;
+  color: #d0d0d0 !important;
+}
+html.dark pre, html.dark .highlight {
+  background: #1e1e22 !important;
+  border-color: rgba(255, 255, 255, 0.06) !important;
+  box-shadow: none !important;
+}
+html.dark .highlight > * { background: transparent !important; }
+html.dark pre code { color: #d0d0d0 !important; }
+html.dark .chroma { color: #d0d0d0; background: #1e1e22; }
+
+/* 柔和代码高亮 */
+html.dark .chroma .k,
+html.dark .chroma .kn { color: #c792ea; }  /* 关键字 */
+html.dark .chroma .s,
+html.dark .chroma .s1,
+html.dark .chroma .s2 { color: #c3e88d; }  /* 字符串 */
+html.dark .chroma .nf,
+html.dark .chroma .nx { color: #82aaff; }  /* 函数 */
+html.dark .chroma .c,
+html.dark .chroma .c1 { color: #676e95; }  /* 注释 */
+html.dark .chroma .nc { color: #ffcb6b; }  /* 类名 */
+html.dark .chroma .o,
+html.dark .chroma .p { color: #89ddff; }  /* 操作符/括号 */
+html.dark .chroma .m { color: #f78c6c; }  /* 数字 */
+
+html.dark .highlight pre code[class*="language-"]::before {
+  background: #2a8a80 !important;
+}
+
+html.dark blockquote {
+  border-left-color: #3dd4c6 !important;
+  color: #aaa !important;
+}
+html.dark hr { border-color: rgba(255, 255, 255, 0.12) !important; }
+html.dark ul > li::before { color: #5a9e5a !important; }
+
+html.dark .meta, html.dark time { color: #888 !important; }
+html.dark section.list-item {
+  border-bottom-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+html.dark .toc {
+  background: rgba(28, 28, 30, 0.9);
+  border-color: rgba(255, 255, 255, 0.06);
+}
+html.dark .toc a { color: #aaa !important; }
+html.dark .toc a:hover { color: #19c8b9 !important; }
+html.dark #TableOfContents a.active { color: #19c8b9 !important; }
+
+html.dark th { background: #2a6a5e !important; }
+html.dark td { color: #c8c8c8 !important; }
+html.dark tr:nth-child(even) td { background: rgba(255, 255, 255, 0.03) !important; }
+html.dark tr:hover td { background: rgba(25, 200, 185, 0.1) !important; }
+
+html.dark input[type="checkbox"] {
+  border-color: #555 !important;
+  background: rgba(40, 40, 44, 0.8) !important;
+}
+html.dark input[type="checkbox"]:checked {
+  background: #2a8a80 !important;
+  border-color: #3a9a90 !important;
+}
+
+html.dark .search-box input {
+  background: rgba(40, 40, 44, 0.7);
+  border-color: #555;
+  color: #ccc;
+}
+html.dark .search-item {
+  background: rgba(255, 255, 255, 0.04);
+  color: #ccc !important;
+}
+html.dark .search-item:hover { background: rgba(25, 200, 185, 0.12); }
+
+html.dark .nav-dark-toggle {
+  color: #aaa !important;
+}
+html.dark .nav-dark-toggle:hover { color: #f5c31c !important; }
+html.dark .nav-search { color: #aaa !important; }
+html.dark .nav-search:hover { color: #19c8b9 !important; }
+
+html.dark .ai-wave { opacity: 0.5; }
+
+html.dark ::-webkit-scrollbar-thumb { background-color: #555; }
+html.dark ::-webkit-scrollbar-thumb:hover { background: #777; }
+
+/* ─── 19. 移动端响应式 ─── */
+@media (max-width: 768px) {
+  header {
+    height: auto !important;
+    padding: 12px 16px !important;
+    flex-direction: column;
+    gap: 8px;
+  }
+  header .main { font-size: 1.3rem; }
+  nav {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px !important;
+  }
+  nav a, .nav-search, .nav-dark-toggle { font-size: 0.85rem !important; }
+
+  .content { padding: 0 6px; }
+  main {
+    padding: 12px 16px 20px !important;
+    border-radius: 12px !important;
+  }
+
+  .search-box input { max-width: 100%; font-size: 0.95rem; padding: 12px 16px; }
+
+  .category-item { padding: 0.35em 0.8em !important; font-size: 0.82rem !important; }
+
+  .toc { display: none !important; }
+
+  table { font-size: 0.8rem; }
+  th, td { padding: 6px 10px !important; }
+
+  h1 { font-size: 1.15rem; }
+  h2 { font-size: 1.05rem; }
+}
+
+@media (max-width: 480px) {
+  header {
+    border-radius: 12px !important;
+    padding: 10px 12px !important;
+  }
+  nav { gap: 6px !important; }
+  main {
+    padding: 10px 12px 16px !important;
+    border-radius: 10px !important;
+  }
+  .content { max-width: 100%; padding: 0 4px; }
+}

@@ -6,5 +6,7 @@
 		{{ range .Site.Menus.main }}
 		<a href="{{ .URL }}">{{ .Name }}</a>
 		{{ end }}
+		<a href="{{ .Site.BaseURL }}search/" class="nav-search" title="搜索">Search</a>
+		<button class="nav-dark-toggle" id="dark-toggle" onclick="toggleDarkMode()" title="切换模式">Dark</button>
 	</nav>
 </header>

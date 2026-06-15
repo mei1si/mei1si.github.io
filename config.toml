@@ -9,6 +9,8 @@ pygmentscodefencesguesssyntax = true
 [markup]
   [markup.highlight]
     noClasses = false
+    lineNos = true
+    lineNumbersInTable = false
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 3

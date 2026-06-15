@@ -30,7 +30,7 @@
 	{{ with .OutputFormats.Get "rss" -}}
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
-
+	
 	{{- template "_internal/opengraph.html" . -}}
 	{{- template "_internal/twitter_cards.html" . -}}
 	{{ if and (isset .Site.Params "social") (isset .Site.Params "feathericonscdn") (eq .Site.Params.featherIconsCDN true) -}}
@@ -39,9 +39,7 @@
 		<script src="{{ .Site.BaseURL }}js/feather.min.js"></script>
 	{{ end }}
 
-	<!-- 动物森友会字体: Nunito + Noto Sans SC -->
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<!-- Animal Island: Nunito (圆体拉丁) + Noto Sans SC (中文) -->
 	<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
 
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/main.css" />
@@ -49,8 +47,11 @@
 		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/dark.css" {{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)"{{ end }} />
 	{{- end -}}
 
-	<!-- Animal Island 风格覆盖 -->
-	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/animal-island.css" />
+	<!-- Animal Island: 自定义覆盖样式（加载在主题 CSS 之后） -->
+	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/animal.css" />
+
+	<!-- 暗色模式切换 -->
+	<script src="{{ .Site.BaseURL }}js/dark-mode.js"></script>
 
 	{{- range .Site.Params.customJS }}
 	{{- if or (hasPrefix . "http://") (hasPrefix . "https://") }}

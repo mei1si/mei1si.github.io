@@ -22,35 +22,15 @@
         {{ end }}
         {{ end }}
         {{- $paginator := .Paginate .Pages 20 -}}
-        {{- $yearlyPages := $paginator.Pages.GroupByDate "2006" -}}
-        {{- $yearlyTotalPages := .Pages.GroupByDate "2006" -}}
-        {{- $totalCountMap := dict -}}
-        {{- range $totalyearGroup := $yearlyTotalPages -}}
-          {{- $totalCountMap = merge $totalCountMap (dict $totalyearGroup.Key (len $totalyearGroup.Pages)) -}}
-        {{- end -}}
-        {{- range $yearGroup := $yearlyPages -}}
-          {{- $year := $yearGroup.Key -}}
-          {{- $count := len $yearGroup.Pages -}}
-          {{- $totalcount := index $totalCountMap $year -}}
-          {{if eq $count $totalcount}}
-          <h2 class="archive-year-header" id="{{ $year }}"> {{ $year }}
-            <sup class="archive-count">{{ $count }}</sup>
-          </h2>
-          {{ else }}
-          <h2 class="archive-year-header" id="{{ $year }}"> {{ $year }}
-            <sup class="archive-count">{{ $totalcount }}({{ $count }})</sup>
-          </h2>
-          {{ end }}
-          <ul class="article-list">
-          {{- range $yearGroup.Pages -}}
-            {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
-            <li>
-              <span class="post-title"><a href="{{ .RelPermalink }}">{{.Title}}</a></span> <span class="post-date">{{ dateFormat "2006-01-02" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
-            </li>
-            {{- end -}}
+        <ul class="article-list">
+        {{- range $paginator.Pages -}}
+          {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
+          <li>
+            <span class="post-title"><a href="{{ .RelPermalink }}">{{.Title}}</a></span> <span class="post-date">{{ dateFormat "2006年01月02日" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
+          </li>
           {{- end -}}
-          </ul>
         {{- end -}}
+        </ul>
         <div class="pagination">
           <ul class="pagination">
             <span class="page-item page-prev">
