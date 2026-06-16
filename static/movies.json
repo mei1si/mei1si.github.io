@@ -3258,5 +3258,824 @@
     "url": "https://www.themoviedb.org/movie/9286",
     "status": "watched",
     "kind": "movie"
+  },
+  {
+    "id": 39434,
+    "title": "我们仍未知道那天所看见的花的名字。",
+    "year": 2011,
+    "rating": 8.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/cqjqnvgvBuViLvkrphSoG7pXUFH.jpg",
+    "overview": "从小一起长大的六个孩子，在升上高中之后彼此有了距离。不太与人们接触的宅男宿海仁太、有点被小太妹熏染的安城鸣子、进入重点高中的松雪集与鹤见知利子、放弃读高中而展开旅行的久川铁道……只有幼年死去的本间芽衣子（只有仁太能看见的灵魂），还是单纯一如从前。有一天，芽衣子对仁太说：“帮我实现一个愿望吧。”仁太虽然有点为难，却还是答应了她。以此为契机，为了实现芽衣子的愿望，分散的大家又再次聚集在一起……",
+    "genres": [
+      "动画",
+      "剧情",
+      "悬疑"
+    ],
+    "url": "https://www.themoviedb.org/tv/39434",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 42916,
+    "title": "龙与虎",
+    "year": 2008,
+    "rating": 8.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/iDzyuzi8vPToAghsDmm8xVSmgyl.jpg",
+    "overview": "樱花飞舞的四月，全新的高中二年级，新的班级……",
+    "genres": [
+      "动画",
+      "喜剧",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/42916",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 63145,
+    "title": "夏洛特",
+    "year": 2015,
+    "rating": 8.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/dC61yNbMvQb4kDpuJLagNmWENQr.jpg",
+    "overview": "这是一个一部分青春期的少年少女身上会随时引发特殊能力的世界，而主角乙坂有宇就是一名能够控制他人身体5秒的少年，且恶意利用这种能力获得优等生的生活。但是，他的行为被来自星之海学园学生会的友利奈绪和高城丈士朗揭发，乙坂有宇和妹妹乙坂步未自此被逼转校至星之海学园，与奈绪一同去查找并保护其他不受学园管辖、甚至滥用能力的能力者，并和同为学生会成员的人气偶像西森柚咲过着奇妙快乐的日子。",
+    "genres": [
+      "动画",
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/63145",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 228663,
+    "title": "堀与宫村 -piece-",
+    "year": 2023,
+    "rating": 7.7,
+    "poster": "https://media.themoviedb.org/t/p/w500/g9UvwFdURGJInEjtoKNyg1QeGx2.jpg",
+    "overview": "青春……超威碳酸系！乍看之下很会打扮，但其实朴素又像家庭主妇的女高中生堀，与在学校是阴沉土气眼镜男，其实是身上穿了很多耳环的美型男宫村。有如正反两极却又相似的两人，偶然相遇之后……！？酸酸甜甜又有点揪心的超威碳酸系校园生活就此展开……！",
+    "genres": [
+      "动画",
+      "喜剧",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/228663",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 100049,
+    "title": "总之就是非常可爱",
+    "year": 2020,
+    "rating": 8.5,
+    "poster": "https://media.themoviedb.org/t/p/w500/v6s3T7144ukdyWajzXBgQj2DgID.jpg",
+    "overview": "写作星空读作NASA……虽然擅长学习但是有点那个的少年星空，在即将参加高中考试的某一天，遇见了一位非常可爱的少女。但，就在大意之间，星空遭遇了交通事故……星空突然向搭救了他的少女司告白。回答是“如果愿意和我结婚就跟你交往”。在那之后，司出现在了已18岁的星空的家。星空在交到“女友”前就有了“妻子”……问候了星空的父母，两个人重整心情回到家后，公寓被烧光了。不过没事的。一边接受有栖川家的照顾，一边和总之就是非常可爱的妻子展开了卿卿我我的夫妻生活！",
+    "genres": [
+      "动画",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/100049",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 323671,
+    "title": "我心里危险的东西",
+    "year": 2023,
+    "rating": 10,
+    "poster": "https://media.themoviedb.org/t/p/w500/nIQBbiSiUNdl4jmd1Yt9jYLUiHD.jpg",
+    "overview": "重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈",
+    "genres": [
+      "动画",
+      "喜剧",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/323671",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 68854,
+    "title": "好想告诉你",
+    "year": 2009,
+    "rating": 8.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/tJrwwVe8dUpIgKGnDkjTNg6aIgJ.jpg",
+    "overview": "黑沼爽子因为外表看起来很阴沉，被班上同学取了个外号叫“贞子”。甚至还传说只要跟她对看三秒以上，7天之后就会遭遇不幸。但其实爽子个性开朗又单纯，也很乐于助人，虽然想和大家打成一片，却始终没有机会。唯独只有他，笑容爽朗的阳光男孩风早翔太，始终很自然地和爽子相处。在此之后，爽子不仅渐渐改变了自己，也终于交到失野朱音、吉田千鹤、真田龙等知心朋友。爽子与风早两人，更共同经历了许多“第一次”，拉近了彼此的距离。",
+    "genres": [
+      "动画",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/68854",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 95479,
+    "title": "咒术回战",
+    "year": 2020,
+    "rating": 8.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
+    "overview": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/95479",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 325020,
+    "title": "咒术回战 第二季",
+    "year": 1000,
+    "rating": 0,
+    "poster": "https://media.themoviedb.org/t/p/w500/6rMc5FHT8NXOnd6neM2fuNoYBwf.jpg",
+    "overview": "最强2人，回不去的青春。2017年12月，乙骨忧太解除了祈本里香的诅咒。追溯到2006年（春天），高专时代的五条悟与夏油杰。作为咒术师活跃着，所向披靡的2人，接受来自咒术界拥有不死术式的要·天元的委托。委托有两个，天元的的适合者——被选中成为“星浆体”的天内理子，对那个少女的“护卫”和“抹去”两人为了维持咒术界而进行护卫任务，在那里自称伏黑的“术师杀手”以暗杀“星浆体”为目标介入。在之后被称为最强的咒术师和最恶的咒术师，五条与夏油，两人的过去被揭开…",
+    "genres": [
+      "未分类"
+    ],
+    "url": "https://www.themoviedb.org/tv/325020",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 810693,
+    "title": "咒术回战0",
+    "year": 2021,
+    "rating": 8.1,
+    "poster": "https://media.themoviedb.org/t/p/w500/qiodOI39faRytzKvmq1C8IUjxaX.jpg",
+    "overview": "乙骨忧太是一个高中生，他正面临着一个严重的问题，青梅竹马理香变成了一个咒灵，不会让他一个人呆着。由于理香不是普通的咒灵，他的困境被咒术高专的老师五条悟注意到了。五条说服忧太入学，但他赶得及吗？",
+    "genres": [
+      "动画",
+      "动作",
+      "奇幻"
+    ],
+    "url": "https://www.themoviedb.org/movie/810693",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 240411,
+    "title": "胆大党",
+    "year": 2024,
+    "rating": 8.5,
+    "poster": "https://media.themoviedb.org/t/p/w500/dRNNUYCJB9gACxqiIbbDLOkpFB2.jpg",
+    "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "喜剧",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/240411",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 130237,
+    "title": "测不准的阿波连同学",
+    "year": 2022,
+    "rating": 7.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/wYmI7GgqXGggDexXSRWssUEP83o.jpg",
+    "overview": "阿波连玲奈是一个身材娇小，安静的女孩子，有点不太擅长把握与他人之间的距离。这让坐在隔壁座位的来堂同学，总觉得到有种距离感。有一天，来堂同学捡起了阿波连同学掉在地上的橡皮，以此为契机两人之间的距离开始急速接近！？“时而太远”“时而太近”，阿波连同学难以预测。各种意义上“测不准”的紧贴系？青春恋爱喜剧开幕了！",
+    "genres": [
+      "动画",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/130237",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 66941,
+    "title": "ReLIFE",
+    "year": 2016,
+    "rating": 7.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/aRK64bB8hMsuZZnitebPyKqOR5d.jpg",
+    "overview": "海崎新太的人生在二十七岁之时走入了死胡同之中，工作仅三个月就选择辞职，两次参加考研却均无功而返，想要找一个可以糊口的工作却屡屡失败受挫，新太不知道也不想知道，究竟还会有什么在未来等待着他。某日，新太失魂落魄的走在街头，偶然遇见了一位名叫夜明了的神秘男子，并邀请他参加一个看起来极为不祥的实验。在巨大的利益诱惑和保证能够找到工作的承诺面前，满腹疑虑的新太产生了动摇。按照要求，新太将要服下一颗神秘的药丸，之后，他的外表将会回到十七岁的样子，新太需要进入高中三年级就读，整个实验为期一年。就这样，新太回到了校园之中，在这里，等待着他的会是怎样的生活呢？",
+    "genres": [
+      "动画",
+      "喜剧",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/66941",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 205050,
+    "title": "香格里拉边境",
+    "year": 2023,
+    "rating": 8.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/1y6vnsQdoNSZupBEOiLuzXZfYHv.jpg",
+    "overview": "你是为了什么而玩游戏的？如果说世上存在着100部神作游戏，那垃圾游戏肯定有1000部。这是喜爱垃圾游戏，同时也被垃圾游戏所爱的男人「阳务乐郎」，向垃圾游戏的对立面——神作游戏《香格里拉边境》发起挑战的故事。原作网络小说的总阅览数超过5亿，并少见的跳过书籍出版直接在《周刊少年MAGAZINE》上改编成漫画开始连载。在这本拥有60年以上历史的漫画杂志上，成为了读者问卷评比有史以来的首个四冠王！本作品通过每个人都能拥有的游戏体验来描绘出一种全新风格的奇幻世界，让沉浸在过去记忆中的大人，生活在科技最前沿的年轻人，都能感受到全新的冒险刺激。一名「垃圾游戏猎人」向神作发起挑战，至高无上的「游戏×幻想」的冒险故事，开幕！",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "喜剧",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/205050",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 209867,
+    "title": "葬送的芙莉莲",
+    "year": 2023,
+    "rating": 8.8,
+    "poster": "https://media.themoviedb.org/t/p/w500/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
+    "overview": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/209867",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 45790,
+    "title": "JOJO的奇妙冒险",
+    "year": 2012,
+    "rating": 8.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
+    "overview": "乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/45790",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 278043,
+    "title": "正相反的你与我",
+    "year": 2026,
+    "rating": 8.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/zrE9zyK2iikJ8F2ls8YRCZD8wEi.jpg",
+    "overview": "时刻精力旺盛但很在意周围目光的女生——铃木。沉默寡言但能清楚表达自己想法的男生——谷。这部恋爱喜剧描绘的是性格完全相反的二人互相尊重，逐渐加深了解的过程，以及与朋友们度过的校园生活。",
+    "genres": [
+      "动画",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/278043",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 72517,
+    "title": "欢迎来到实力至上主义的教室",
+    "year": 2017,
+    "rating": 8.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
+    "overview": "这个社会是否平等呢。真正的“实力”是什么？东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
+    "genres": [
+      "动画",
+      "剧情",
+      "悬疑"
+    ],
+    "url": "https://www.themoviedb.org/tv/72517",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 207784,
+    "title": "迷宫饭",
+    "year": 2024,
+    "rating": 8.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/xBQK95axIdaOmfsJE7PM5bnioym.jpg",
+    "overview": "迷宫饭。是“吃”，还是“被吃”，这是一个问题。在迷宫深处，莱欧斯眼看着红龙吃掉了妹妹，自己在将死之际回到了地面。尽管他想要马上再次挑战迷宫，但是钱和粮食都被留在了最深处。面对妹妹可能会被消化掉的危机，莱欧斯下定了决心。“食物就在迷宫中自给自足吧！”史莱姆，蛇尾鸡，宝箱怪，还有龙！吃着来袭的魔物们，打通迷宫吧，冒险者！",
+    "genres": [
+      "动画",
+      "喜剧",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/207784",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 237529,
+    "title": "金牌得主",
+    "year": 2025,
+    "rating": 8.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/3wLOcD3qvoO0L5RoYohDb4QqLF2.jpg",
+    "overview": "一名曾经遭遇挫折的前滑冰选手青年——明浦路司，遇见了一位憧憬花样滑冰世界的少女——结束祈。在祈对冰场的执着驱使下，司主动承担起教练的角色。祈逐渐展现出她的才能，而司也在指导者的道路上不断成长。两人组队，一同向荣誉的“金牌得主”目标进发——！",
+    "genres": [
+      "动画",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/237529",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 74185,
+    "title": "少女终末旅行",
+    "year": 2017,
+    "rating": 8,
+    "poster": "https://media.themoviedb.org/t/p/w500/v1UV6g3Zj6Q70fW7BKyf2Msl1yc.jpg",
+    "overview": "距离极尽繁荣与荣华的人类文明迎来末日，已经经过了漫长的岁月。人类几乎死绝，就连生物都消失的迎来末日的世界。复杂建造的都市化作宛如迷宫的废墟，无从整备的机械也渐渐停止了动作。是何时结束的呢，是从何时开始结束的呢，就连这种想法也不复存在的终末世界中，有两位少女漫无目的地持续着旅行。千户与尤莉，今天也乘着爱车Kettenkrad，在废墟当中彷徨。",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "悬疑",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/74185",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 85937,
+    "title": "鬼灭之刃",
+    "year": 2019,
+    "rating": 8.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/tZ0yGfG4EIox7bYJTxAtqUhoOmR.jpg",
+    "overview": "时值日本大正时期。",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/85937",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 635302,
+    "title": "鬼灭之刃：无限列车篇",
+    "year": 2020,
+    "rating": 8.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/ozQvWjtC7B2KtDUEdQvUdvCzHUo.jpg",
+    "overview": "炭治郎等人完成蝴蝶屋的训练，下一个目的地是开往黑暗的无限列车。以多人行踪不明的这辆列车为舞台，炭治郎带着祢豆子与善逸、伊之助一行人，与鬼杀队最强剑士〝柱〞其中之一炎柱炼狱杏寿郎会合，新的任务即将开始！",
+    "genres": [
+      "动画",
+      "动作",
+      "奇幻"
+    ],
+    "url": "https://www.themoviedb.org/movie/635302",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 1311031,
+    "title": "鬼灭之刃：无限城篇 第一章 猗窝座再袭",
+    "year": 2025,
+    "rating": 7.7,
+    "poster": "https://media.themoviedb.org/t/p/w500/bhIytk0hlaHmGrQFY9P7bWhZZfC.jpg",
+    "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，鬼舞辻无惨在产屋敷宅邸出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被鸣女推入一个神秘的异空间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+    "genres": [
+      "动画",
+      "动作",
+      "奇幻"
+    ],
+    "url": "https://www.themoviedb.org/movie/1311031",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 224753,
+    "title": "百变的七仓同学",
+    "year": 2024,
+    "rating": 7.9,
+    "poster": "https://media.themoviedb.org/t/p/w500/apTgrBGoijoPzkmpi0wYNw5RI8H.jpg",
+    "overview": "憧憬着成为像漫画里那样超人气角色的学长“北滨瑛二”，以及在演技方面天赋异禀的“七仓凛”。七仓同学在和学长的相处过程中，常常扮演不同性格作为演技练习，小剧场式的相处模式让他们的校园生活变得有趣许多。同处戏剧社的两人之间会产生什么火花？七仓凛能够以真实的自己将心意传达给学长吗？！",
+    "genres": [
+      "动画",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/224753",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 195459,
+    "title": "狩龙人拉格纳",
+    "year": 2023,
+    "rating": 7.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/bYDcPSTgTjtqa4iXPRkoVb4QXpD.jpg",
+    "overview": "“狩龙人”是一项挥舞银剑，狩猎恶龙，获取报酬的职业。",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/195459",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 139130,
+    "title": "跃动青春",
+    "year": 2023,
+    "rating": 7.8,
+    "poster": "https://media.themoviedb.org/t/p/w500/7JDDctGd4eqkrJFa1w0L6UIlPGX.jpg",
+    "overview": "岩仓美津未从乡下的小初中，以第一名的成绩考入了东京的高升学率高中。这位乡村神童心怀完美的人生蓝图、独自来到东京。她成绩优异，却与他人有着独特的距离感，稍显格格不入。她虽然偶尔会失败，但还是凭借天真的性格一点点打动班上的同学，使他们那各不相同的性格逐渐交叠。相遇、相知、最终心意相通。人人都会有心烦和焦躁之时。而无可替代的朋友，定将带来互相理解的契机。这是个偶有杂音却能让人不知不觉快乐起来的校园生活喜剧！",
+    "genres": [
+      "动画",
+      "剧情",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/139130",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 46283,
+    "title": "绝园的暴风雨",
+    "year": 2012,
+    "rating": 7.9,
+    "poster": "https://media.themoviedb.org/t/p/w500/pn1rLZ4dPDk0AfzFg7MifnpoBl9.jpg",
+    "overview": "魔法使一族的野心使他们为了获取更强的力量，促使他们唤醒了不该唤醒的东西，世界的毁灭近在眼前。只有最强的魔法使公主锁部叶风（泽城美雪 配音）才能阻止这一切的发生，但被部下锁部左门（小山力也 配音）暗算的叶风被困在了施了结界的无人岛上。高中二年级学生泷川吉野（内山昂辉 配音）的好友不破真广（丰永利行 配音）的妹妹不破爱花（花泽香菜 配音）被入室抢劫犯所杀，但是真广却认为妹妹的死疑点重重。为了调查妹妹的死因，真广通过海上的漂流人偶和锁部叶风达成秘密交易。  　　真广在失踪一个月后，在大雪的冬日伴随着漫天的蝴蝶突然从天而降。与此同时，可怕的“黑铁病”在整个日本蔓延开来。真广到底和魔法使公主结下了什么样的契约，而他到底带着怎样的使命来到这个世界？",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/46283",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 69295,
+    "title": "政宗君的复仇",
+    "year": 2017,
+    "rating": 7.7,
+    "poster": "https://media.themoviedb.org/t/p/w500/g5pN4bWtc7PlBgKyBnW2O32i3zs.jpg",
+    "overview": "真壁政宗（花江夏树 配音）小时候是个小胖子，被同班同学取了“猪脚”的绰号，整日生活在自卑和嘲笑之中，之后，政宗转校，同时接受了为期八年的训练，终于恢复了正常人的身材，亦意外的发现自己其实拥有一副帅气的面孔。如今，政宗回到了曾经生活过的城市，满腔怒火的他制定了一系列报复计 划，发誓要让当年给他取绰号的女孩安达垣爱姬（大桥彩香 配音）体会一下他曾经体会过的屈辱。 　　和政宗有着相似经历的千金大小姐藤之宫宁子（三森铃子 配音）、沉默寡言内向腹黑的小岩井吉乃（水濑祈 配音）、沉迷于耽美文化的腐女子双叶妙（田所梓 配音），在这些可爱女孩子们的围绕下，政宗的复仇计划能够顺利实施吗？",
+    "genres": [
+      "动画",
+      "喜剧",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/69295",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 52083,
+    "title": "圣诞之吻SS",
+    "year": 2010,
+    "rating": 7.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+    "overview": "对橘纯一来说，能够默默的观望着前辈森岛遥的背影已经是一种莫大的幸福，可是随着毕业季的临近，橘纯一发现，对前辈的感情已经到了不说不行的地步，否则，他将永远失去这宝贵的机会。",
+    "genres": [
+      "动画",
+      "喜剧",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/52083",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 88803,
+    "title": "冰海战记",
+    "year": 2019,
+    "rating": 8.5,
+    "poster": "https://media.themoviedb.org/t/p/w500/9cP7wbBiD99Neu0d1Zae3ZONTjB.jpg",
+    "overview": "公元10世纪末期，世界各地出现了只做战争掠夺的最强民族--维京人。被讴歌为最强战士的儿子托尔芬，自小便生活在战场上，并向往着梦幻大陆“文兰”这是一个发生在激荡时代的，真正的战士物语。",
+    "genres": [
+      "动画",
+      "War & Politics",
+      "动作冒险",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/88803",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 62564,
+    "title": "吹响吧！上低音号",
+    "year": 2015,
+    "rating": 8,
+    "poster": "https://media.themoviedb.org/t/p/w500/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
+    "overview": "作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
+    "genres": [
+      "动画",
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/62564",
+    "status": "unwatched",
+    "kind": "anime"
+  },
+  {
+    "id": 75865,
+    "title": "擅长捉弄的高木同学",
+    "year": 2018,
+    "rating": 8.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/BsCy3bMqoYnZEILz0RlFWw7TrN.jpg",
+    "overview": "“今天一定要捉弄高木同学，让她害羞！”某所中学，在各种方面都被邻座的女生高木同学捉弄的男生西片。他为了对此反击而每天奋斗，但……？这样的高木同学与西片带来的全力“捉弄”青春大战开始了！",
+    "genres": [
+      "动画",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/75865",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 938567,
+    "title": "擅长捉弄的高木同学 剧场版",
+    "year": 2022,
+    "rating": 8.5,
+    "poster": "https://media.themoviedb.org/t/p/w500/bKBxUWkYD1LbqMHuXxnk3IN3qhe.jpg",
+    "overview": "季节变迁，高木与西片升上了初中3年级。尽管周围的人们开始考虑起各自的将来、不安和期待夹杂在一起，但高木与西片二人的距离还没发生改变。随后，初中最后的夏天就要开始了。在暑假开始的前一天，高木与西片在回家的路上偶遇一只小小的幼猫。他们将那只猫命名为“花”，于神社中做出了在找到母猫之前要照顾好花的决定。二人一边回忆起过去，一边守护着花。这场小小的邂逅，带来了充满幸福的盛夏之日，而崭新的想法也随之孕育。",
+    "genres": [
+      "动画",
+      "喜剧",
+      "爱情"
+    ],
+    "url": "https://www.themoviedb.org/movie/938567",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 120089,
+    "title": "间谍过家家",
+    "year": 2022,
+    "rating": 8.5,
+    "poster": "https://media.themoviedb.org/t/p/w500/xkEGd9GF3oty89xDiXMGJm6pGQL.jpg",
+    "overview": "为了潜入名校，西国能力最强的间谍“黄昏”被下令组建家庭。但是，他的“女儿”居然是能够读取他人内心的超能力者！“妻子”是暗杀者？互相隐藏了真实身份的新家庭，面临考验与世界危机的痛快家庭喜剧就此展开！",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/120089",
+    "status": "watching",
+    "kind": "tv"
+  },
+  {
+    "id": 1062807,
+    "title": "间谍过家家 代号：白",
+    "year": 2023,
+    "rating": 7.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/UxOFlZZnmlNpNPEcIRENtL8T95.jpg",
+    "overview": "出色的间谍“黄昏”化身为心理医生劳埃德·福杰，与拥有“读心术”的超能力女孩阿尼亚、杀手约尔组成各怀秘密但意外温馨的“伪装家庭”，在共同经历笑料百出的家庭闹剧后，将踏上第一次“家庭旅行”。然而，在愉快的旅途中，阿尼亚却发现了一个可能会撼动世界和平的“秘密”，令人措手不及的大危机事件来袭！世界的命运，又一次掌握在了这意外不断的临时一家人手中！",
+    "genres": [
+      "动画",
+      "喜剧",
+      "冒险",
+      "动作"
+    ],
+    "url": "https://www.themoviedb.org/movie/1062807",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 65844,
+    "title": "为美好的世界献上祝福！",
+    "year": 2016,
+    "rating": 8.6,
+    "poster": "https://media.themoviedb.org/t/p/w500/lDi0CcUBuupDwG4juaKmLiI2m0f.jpg",
+    "overview": "热爱游戏的家里蹲少年·佐藤和真的人生，因交通事故而轻易闭幕……本该是这样，但当他醒来之时，眼前有一位自称是女神的美少女。“喂，我有点好事要告诉你。要去异世界吗？只带一样你喜欢的东西没问题喔。”“那，我就带着你好了。”由此开始，在异世界转生的和真的魔王讨伐大冒险开始了……虽然是这么想的，但他却为了获得衣食住行而开始劳动。想要平稳度日的和真，却由于女神引起的各种问题，而终于被魔王军盯上了",
+    "genres": [
+      "动作冒险",
+      "动画",
+      "喜剧",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/65844",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 532067,
+    "title": "为美好的世界献上祝福！红传说",
+    "year": 2019,
+    "rating": 8,
+    "poster": "https://media.themoviedb.org/t/p/w500/2ix99ZdNehjTrGRaGHy8b6425Ok.jpg",
+    "overview": "本应由于交通事故（!?）导致人生轻易闭幕的游戏迷家里蹲·佐藤和真，事出偶然地带着女神·阿库娅转生到了异世界。“在如同RPG游戏一样的异世界，享受憧憬已久的冒险者生活！目标是勇者！”像这样兴奋了还没多久，转生而来的和真就尽是遇到倒霉的事情。 麻烦制造机废柴女神·阿库娅，重度中二病魔法使·惠惠，妄想停不下来的女骑士·达克妮丝，和真与空有高超能力值却无比残念的这3人组队，欠下一屁股债，涉嫌颠覆国家罪而遭到审判，讨伐魔王军干部，偶尔还会死一死……  这样的某一天，突然跑来的红魔族少女·悠悠的一句爆炸性发言，让和真等人当场石化。“我想要和真先生的孩子！”问明原因，原来惠惠和悠悠的故乡“红魔之里” 目前正濒临灭亡的危机。追在出发前去拯救村落的悠悠后面，和真等人向着红魔之里出发，但——！？向和真小队袭来的最大危机！平凡的冒险者和真度过的异世界生活，未来究竟会怎样！？",
+    "genres": [
+      "动画",
+      "喜剧",
+      "奇幻"
+    ],
+    "url": "https://www.themoviedb.org/movie/532067",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 119495,
+    "title": "想要成为影之实力者！",
+    "year": 2022,
+    "rating": 8,
+    "poster": "https://media.themoviedb.org/t/p/w500/3C44kJOcKSGMAl8wvUXDuHUsSm3.jpg",
+    "overview": "“影之实力者” —— 既不是主人公，也不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗中介入事件并施展自身实力的存在。憧憬着“影之实力者”、每天过着不起眼的生活、为了追求力量而修行的少年，在事故中丧生，转生到了异世界。",
+    "genres": [
+      "动画",
+      "喜剧",
+      "Sci-Fi & Fantasy",
+      "动作冒险"
+    ],
+    "url": "https://www.themoviedb.org/tv/119495",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 60808,
+    "title": "游戏人生",
+    "year": 2014,
+    "rating": 8,
+    "poster": "https://media.themoviedb.org/t/p/w500/vU2jXjst9CUq4HD3uLNGUcqtYvv.jpg",
+    "overview": "空（松冈祯丞 配音）和白（茅野爱衣 配音）是网络世界里人尽皆知的传奇人物，两人在虚拟的战斗中所向披靡，甚至被称为传说一般的存在。然而，在现实世界中，兄妹两人却是连家门都不敢出的“御宅族”，患有严重的人群恐惧症。某日，空和白收到了一位陌生少年传来的讯息，因而被召唤到了异世界中，在这里，人类种、森精种、天翼种和机凯种生活在同一片土地之上，这里没有战争和暴力，有的只是一场又一场无休无止的游戏，一切利益和权利，皆由游戏的结果决定。弱势的人类种在游戏中节节败退最终蜗居在最后一片净土之上，空和白的到来能否改变这悲惨的现状？",
+    "genres": [
+      "动画",
+      "Sci-Fi & Fantasy",
+      "动作冒险",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/60808",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 445030,
+    "title": "游戏人生 Zero",
+    "year": 2017,
+    "rating": 7.8,
+    "poster": "https://media.themoviedb.org/t/p/w500/kQ08ZK1OJn5gqmwUvhPwf0KNkAP.jpg",
+    "overview": "这是一个禁止一切争端、一切皆由游戏决定的“盘上世界”被创造出来以前的故事。  围绕着一统世界的唯一神的宝座，看不到尽头的大战延续的时代。 天地割裂，甚至连繁星都被毁灭殆尽的凄惨战争， 毫无还手之力的人类在战争中一个个死去。  被拥有强大力量的各个种族逼入绝境， 人类濒临存亡，此时率领着人类的年轻领袖名叫里克。 他为了即使再多一人能够迎来明天而呕心沥血，日渐憔悴， 就在这样的某一天，里克在被弃置的森精种的都城遇到了机凯种少女休比。  对于机械所不该拥有的心产生兴趣而发生故障， 被同伴抛弃的休比，为了修复故障，而拜托里克把“人类的心”告诉自己，但……  这是在距今超过六千年的远古编织而成的通往“最新神话”的“最初神话”。没有留下记录也没有留下记忆，没有对任何人诉说过的物语，现在开幕——",
+    "genres": [
+      "冒险",
+      "动画",
+      "剧情",
+      "奇幻",
+      "爱情"
+    ],
+    "url": "https://www.themoviedb.org/movie/445030",
+    "status": "unwatched",
+    "kind": "anime"
+  },
+  {
+    "id": 112613,
+    "title": "国王排名",
+    "year": 2021,
+    "rating": 8,
+    "poster": "https://media.themoviedb.org/t/p/w500/oJXpjTZMcL7MTIVDQKfUBbsr7Wl.jpg",
+    "overview": "国家的丰饶、麾下勇者的数量、以及国王本人如何像勇者一般强大，这些要素的综合排名，便是所谓的“国王排名”。主人公波吉是国王排名第七名的伯斯王治下王国的第一王子。但是波吉却生来耳不能闻，贫弱到挥不动剑。不止家臣甚至连民众都轻蔑地说「他实在不是当国王的料」。这样的波吉人生中第一位交到的朋友，卡克。与卡克的邂逅，以及那些微小的勇气中诞生的，波吉人生的巨变将要开始——",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/112613",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 207743,
+    "title": "国王排名 勇气的宝箱",
+    "year": 2023,
+    "rating": 7,
+    "poster": "https://media.themoviedb.org/t/p/w500/vc3r2hk0QGc5DGV9Nb6AYIviI4i.jpg",
+    "overview": "《国王排名》讲述的是一位弱小的聋哑王子·波吉和他的挚友·卡克的冒险故事。本次动画化的《国王排名 勇气的宝箱》，将展现前作第23集「国王与太阳」中未能展现的角色的崭新一面，讲述波吉、卡克及其同伴们那不为人知的“勇气的故事”。",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "喜剧",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/207743",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 64196,
+    "title": "OVERLORD",
+    "year": 2015,
+    "rating": 8.5,
+    "poster": "https://media.themoviedb.org/t/p/w500/K8ZUjxaj9F0t3AwJDz8ypzBynM.jpg",
+    "overview": "作品主要讲述了某天，一款曾经掀起过大热潮的VRMMORPG「YGGDRASIL」停止了运营。游戏原本会停止一切服务，但过了结束时间后，玩家们却发现不能退出，NPC也产生了各自的思想。现实世界中喜爱电玩的主人公铃木悟（真名）在等待系统强制登出时，与“安兹·乌尔·恭”公会的成员一起意外穿越到了异世界，并且变成了拥有骷髅外表的最强魔法师——“飞鼠”。就这样，真正的奇幻传说正式拉开了帷幕。",
+    "genres": [
+      "动画",
+      "Sci-Fi & Fantasy",
+      "动作冒险"
+    ],
+    "url": "https://www.themoviedb.org/tv/64196",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 114410,
+    "title": "Chainsaw Man",
+    "year": 2022,
+    "rating": 8.5,
+    "poster": "https://media.themoviedb.org/t/p/w500/t8aw0a0JU3OoIFauVVCYn9H1i3e.jpg",
+    "overview": "电次是一位年轻的恶魔猎人，为了偿还父亲在黑帮处的债务，他与“电锯恶魔”波奇塔一起斩杀低阶恶魔谋生，每天过着贫困的生活。遭遇黑帮债主背叛被杀后，电次在恍惚中与波奇塔缔结契约，拥有了恶魔的心脏，变身成为“电锯人”重生于世。",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/114410",
+    "status": "watched",
+    "kind": "tv"
+  },
+  {
+    "id": 257475,
+    "title": "玉子爱情故事",
+    "year": 2014,
+    "rating": 7.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/6I6wKkNX41txFSTy3NKroxRtKSG.jpg",
+    "overview": "北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
+    "genres": [
+      "爱情",
+      "动画",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/movie/257475",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 48561,
+    "title": "玉子市场",
+    "year": 2013,
+    "rating": 7.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/2Khcb9uVzw7i8uWcWMMSjWr62gS.jpg",
+    "overview": "座落某个小镇的兔子商店街上，有一间日式饼店，住着一位十分喜欢饼类小吃的高中一年级女生——玉子。除了偶尔在店铺协助父亲，以及钻研新口味的饼类小吃外，她亦有跟学校的朋友参与羽毛球部活动。而饼店对面是同行的竞争对手，两边的父亲经常都因生意问题而喧哗。不过对方儿子——饼藏却自小跟玉子建立青梅竹马的关系，近日更不断隐约地表达心思，只是玉子没有特别注意，更常常被旁观的朋友拿出来扰攘一番。总而言之，玉子就是在商店街众人的护荫下，如此热闹地渡过每一天，生活可谓过得相当快乐。",
+    "genres": [
+      "动画",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/48561",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 119100,
+    "title": "孤独摇滚！",
+    "year": 2022,
+    "rating": 8.4,
+    "poster": "https://media.themoviedb.org/t/p/w500/2cIZIoGhwLVQAcwBdKtgUNFf7z3.jpg",
+    "overview": "作为网络吉他手“吉他英雄”而广受好评的后藤独，在现实中却是个什么都不会的沟通障碍者。独有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作经历的独，在人前完全发挥不出原本的实力。为了努力克服沟通障碍，独与“结束乐队”的成员们一同开始努力……",
+    "genres": [
+      "动画",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/119100",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 111576,
+    "title": "影宅",
+    "year": 2021,
+    "rating": 8,
+    "poster": "https://media.themoviedb.org/t/p/w500/bCI5KSdhVMzUOyHoKDCQzLPTr4A.jpg",
+    "overview": "这个洋馆里有一个秘密——伫立在悬崖边上的巨大洋馆「影宅」中模仿着贵族们生活着的，没有脸的一族人「影子」。以及作为影子的“脸”而存在并侍奉他们的「活人偶」。某一日，“影子”的少女凯特的住处，有一位“活人偶”来访。“影子”与“人偶”的不可思议的日常生活就此开始。",
+    "genres": [
+      "动画",
+      "悬疑",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/111576",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 204716,
+    "title": "秋叶原冥途战争",
+    "year": 2022,
+    "rating": 7,
+    "poster": "https://media.themoviedb.org/t/p/w500/uSbDmK5y8dWVxngbWSWpmO47EI9.jpg",
+    "overview": "1999年春，因为憧憬可爱的女仆，一位少女来到了秋叶原。世纪末的秋叶原，有许多各式各样的女仆。俗称“猪崽小屋”的女仆咖啡今天也在营业中！一起新入职的新人女仆破天荒的竟是击球手。人气女仆、驯兽师以及秋叶原外生命体也会出现，红色球棒全力一挥！这是女仆工作的奋斗记，将献给所有的主人和小姐们。",
+    "genres": [
+      "动画",
+      "喜剧",
+      "犯罪"
+    ],
+    "url": "https://www.themoviedb.org/tv/204716",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 76121,
+    "title": "DARLING in the FRANXX",
+    "year": 2018,
+    "rating": 8.5,
+    "poster": "https://media.themoviedb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+    "overview": "他们拥有梦想。总有一天，飞向广阔天空的梦想。知晓被玻璃遮盖的这片天空有多么遥远。遥远的未来，人类在荒废的大地上建设了移动要塞都市“种植园”，并讴歌着文明。在那当中建造的驾驶员居住设施“米斯特汀”，通称“鸟笼”。孩子们就住在那里，对外面的世界一无所知，对自由的天空一无所知。他们被告知的使命，只有战斗而已。敌人是一切都被谜团覆盖的巨大生命体“叫龙”。为了对抗尚未见过的敌人，孩子们乘上被称为“FRANXX”的机器人。他们坚信，乘坐其中，就是对自己存在的证明。有一位曾被称作神童的少年，代号016，名字是广。但他现在却跌落谷底，是不被人需要的存在。如果没有乘上FRANXX，就如同不存在一样。在这样的广面前，某天，一位被称作02的神秘少女出现了。她的额头，长着两根艳丽的角。“——找到了哦，我的DARLING”",
+    "genres": [
+      "动画",
+      "剧情",
+      "Sci-Fi & Fantasy",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/76121",
+    "status": "watched",
+    "kind": "anime"
   }
 ]
