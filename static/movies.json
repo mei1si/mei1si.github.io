@@ -4607,5 +4607,113 @@
     "url": "https://www.themoviedb.org/tv/42417",
     "status": "watched",
     "kind": "anime"
+  },
+  {
+    "id": 1339713,
+    "title": "痴迷",
+    "year": 2026,
+    "rating": 8.2,
+    "poster": "https://media.themoviedb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+    "overview": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+    "genres": [
+      "恐怖",
+      "惊悚"
+    ],
+    "url": "https://www.themoviedb.org/movie/1339713",
+    "status": "watched",
+    "kind": "movie"
+  },
+  {
+    "id": 46298,
+    "title": "全职猎人",
+    "year": 2011,
+    "rating": 8.7,
+    "poster": "https://media.themoviedb.org/t/p/w500/hRirFFQtvBd8i2K2PZazkxF4voD.jpg",
+    "overview": "主人公小杰从小在鲸鱼岛长大，与米特阿姨和阿婆相依为伴。性格开朗的他，有着能与动物沟通的灵性。因为无父无母，小杰将米特阿姨当成自己的生母爱着。直到9岁那一年，小杰在森林里被一位青年男子搭救。从他口中小杰得知自己的父亲还活着而且职业是猎人。在说服米特阿姨之后，小杰独自踏上了寻父的征程。然而世界那么大，在茫茫人海中找到父亲谈何容易？于是，小杰决定成为猎人，从这里开始找寻他父亲的踪迹。靠这样一种信念开始了冒险旅途，并在旅途当中结交好友，不断成长，从而引发了后面的所有故事，引出全职猎人的精彩世界。",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/46298",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 69453,
+    "title": "杀老师Q！",
+    "year": 2016,
+    "rating": 6.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/dZlQUneXi0x5Fu8FvAVS1wi6sJ4.jpg",
+    "overview": "一个陌生又充满乐趣冒险的暗杀组。杀手们回来了，但是这次他们有魔法了？！在这个全新的系列中，3年E班的孩子们在魔法学校学习剑术和魔法。他们的任务是什么？打败邪恶的恶魔之王老师和危险的魔法学校的考试！",
+    "genres": [
+      "动作冒险",
+      "动画",
+      "喜剧",
+      "Sci-Fi & Fantasy"
+    ],
+    "url": "https://www.themoviedb.org/tv/69453",
+    "status": "watching",
+    "kind": "anime"
+  },
+  {
+    "id": 296286,
+    "title": "躲在超市后门抽烟的两人",
+    "year": 2026,
+    "rating": 9,
+    "poster": "https://media.themoviedb.org/t/p/w500/1ZkivwzRnJOTMyZvyE88EvjK4ML.jpg",
+    "overview": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
+    "genres": [
+      "动画",
+      "喜剧"
+    ],
+    "url": "https://www.themoviedb.org/tv/296286",
+    "status": "watched",
+    "kind": "anime"
+  },
+  {
+    "id": 235635,
+    "title": "巧克力情人",
+    "year": 2024,
+    "rating": 8.3,
+    "poster": "https://media.themoviedb.org/t/p/w500/pXNcd4z8eBihLO9I7bIVoK4mtQt.jpg",
+    "overview": "相爱的灵魂无法被责任与传统束缚，本剧改编自劳拉·埃斯基韦尔同名小说，讲述一场错综复杂、永恒不灭的恋情。在一个魔幻写实与浓郁风味的世界里，蒂塔与佩德罗深陷爱河，蒂塔要面对家族强加给她的命运，同时以自己的方式争取真爱。",
+    "genres": [
+      "剧情"
+    ],
+    "url": "https://www.themoviedb.org/tv/235635",
+    "status": "watching",
+    "kind": "tv"
+  },
+  {
+    "id": 66761,
+    "title": "美第奇家族：翡冷翠名门",
+    "year": 2016,
+    "rating": 7.7,
+    "poster": "https://media.themoviedb.org/t/p/w500/vFtsI6Nk3cy2l4LGoh1aFRZKaQ7.jpg",
+    "overview": "美第奇家族的传奇历史，他们从简单商人到实权政客的爬升激发了一系列经济和文化变革。在这个过程中，他们战胜了一批又一批强大的敌人。",
+    "genres": [
+      "剧情",
+      "War & Politics"
+    ],
+    "url": "https://www.themoviedb.org/tv/66761",
+    "status": "watched",
+    "kind": "tv"
+  },
+  {
+    "id": 1083381,
+    "title": "后室",
+    "year": 2026,
+    "rating": 7,
+    "poster": "https://media.themoviedb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
+    "overview": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
+    "genres": [
+      "恐怖",
+      "悬疑",
+      "科幻"
+    ],
+    "url": "https://www.themoviedb.org/movie/1083381",
+    "status": "watching",
+    "kind": "movie"
   }
 ]
